@@ -1,0 +1,4863 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "community": 0,
+            "cluster_label": "8",
+            "degree": 5,
+            "id": "c..giron@enron.com"
+        },
+        {
+            "community": 1,
+            "cluster_label": "9",
+            "degree": 34,
+            "id": "tana.jones@enron.com"
+        },
+        {
+            "community": 2,
+            "cluster_label": "7",
+            "degree": 10,
+            "id": "rob.walls@enron.com"
+        },
+        {
+            "community": 3,
+            "cluster_label": "3",
+            "degree": 13,
+            "id": "sara.shackleton@enron.com"
+        },
+        {
+            "community": 4,
+            "cluster_label": "3",
+            "degree": 15,
+            "id": "russell.diamond@enron.com"
+        },
+        {
+            "community": 18,
+            "cluster_label": "4",
+            "degree": 2,
+            "id": "lcampbel@enron.com"
+        },
+        {
+            "community": 6,
+            "cluster_label": "2",
+            "degree": 17,
+            "id": "david.forster@enron.com"
+        },
+        {
+            "community": 7,
+            "cluster_label": "5",
+            "degree": 22,
+            "id": "john.arnold@enron.com"
+        },
+        {
+            "community": 8,
+            "cluster_label": "1",
+            "degree": 7,
+            "id": "m..forney@enron.com"
+        },
+        {
+            "community": 14,
+            "cluster_label": "7",
+            "degree": 9,
+            "id": "lynn.blair@enron.com"
+        },
+        {
+            "community": 10,
+            "cluster_label": "2",
+            "degree": 19,
+            "id": "tanya.rohauer@enron.com"
+        },
+        {
+            "community": 11,
+            "cluster_label": "5",
+            "degree": 23,
+            "id": "mike.grigsby@enron.com"
+        },
+        {
+            "community": 12,
+            "cluster_label": "2",
+            "degree": 16,
+            "id": "kay.chapman@enron.com"
+        },
+        {
+            "community": 13,
+            "cluster_label": "7",
+            "degree": 9,
+            "id": "j..farmer@enron.com"
+        },
+        {
+            "community": 14,
+            "cluster_label": "3",
+            "degree": 12,
+            "id": "steven.harris@enron.com"
+        },
+        {
+            "community": 15,
+            "cluster_label": "2",
+            "degree": 19,
+            "id": "michael.tribolet@enron.com"
+        },
+        {
+            "community": 16,
+            "cluster_label": "4",
+            "degree": 0,
+            "id": "undisclosed-recipients:"
+        },
+        {
+            "community": 17,
+            "cluster_label": "5",
+            "degree": 20,
+            "id": "mary.hain@enron.com"
+        },
+        {
+            "community": 18,
+            "cluster_label": "4",
+            "degree": 1,
+            "id": "dfarmer@enron.com"
+        },
+        {
+            "community": 19,
+            "cluster_label": "3",
+            "degree": 14,
+            "id": "marie.heard@enron.com"
+        },
+        {
+            "community": 20,
+            "cluster_label": "1",
+            "degree": 8,
+            "id": "louis.soldano@enron.com"
+        },
+        {
+            "community": 21,
+            "cluster_label": "1",
+            "degree": 7,
+            "id": "twanda.sweet@enron.com"
+        },
+        {
+            "community": 22,
+            "cluster_label": "3",
+            "degree": 12,
+            "id": "lysa.akin@enron.com"
+        },
+        {
+            "community": 23,
+            "cluster_label": "0",
+            "degree": 25,
+            "id": "susan.mara@enron.com"
+        },
+        {
+            "community": 24,
+            "cluster_label": "0",
+            "degree": 27,
+            "id": "tim.belden@enron.com"
+        },
+        {
+            "community": 25,
+            "cluster_label": "2",
+            "degree": 17,
+            "id": "exchange.administrator@enron.com"
+        },
+        {
+            "community": 26,
+            "cluster_label": "3",
+            "degree": 15,
+            "id": "chris.dorland@enron.com"
+        },
+        {
+            "community": 3,
+            "cluster_label": "7",
+            "degree": 9,
+            "id": "stacy.dickson@enron.com"
+        },
+        {
+            "community": 27,
+            "cluster_label": "7",
+            "degree": 11,
+            "id": "stephanie.panus@enron.com"
+        },
+        {
+            "community": 22,
+            "cluster_label": "7",
+            "degree": 11,
+            "id": "mona.petrochko@enron.com"
+        },
+        {
+            "community": 14,
+            "cluster_label": "3",
+            "degree": 14,
+            "id": "kevin.hyatt@enron.com"
+        },
+        {
+            "community": 28,
+            "cluster_label": "7",
+            "degree": 9,
+            "id": "frank.ermis@enron.com"
+        },
+        {
+            "community": 29,
+            "cluster_label": "2",
+            "degree": 18,
+            "id": "lisa.mellencamp@enron.com"
+        },
+        {
+            "community": 30,
+            "cluster_label": "4",
+            "degree": 2,
+            "id": "mary.fischer@enron.com"
+        },
+        {
+            "community": 31,
+            "cluster_label": "7",
+            "degree": 10,
+            "id": "scott.neal@enron.com"
+        },
+        {
+            "community": 32,
+            "cluster_label": "2",
+            "degree": 16,
+            "id": "harry.kingerski@enron.com"
+        },
+        {
+            "community": 19,
+            "cluster_label": "7",
+            "degree": 11,
+            "id": "leslie.hansen@enron.com"
+        },
+        {
+            "community": 22,
+            "cluster_label": "7",
+            "degree": 10,
+            "id": "robert.badeer@enron.com"
+        },
+        {
+            "community": 33,
+            "cluster_label": "5",
+            "degree": 20,
+            "id": "janette.elbertson@enron.com"
+        },
+        {
+            "community": 18,
+            "cluster_label": "0",
+            "degree": 28,
+            "id": "perfmgmt@enron.com"
+        },
+        {
+            "community": 34,
+            "cluster_label": "3",
+            "degree": 13,
+            "id": "christi.nicolay@enron.com"
+        },
+        {
+            "community": 13,
+            "cluster_label": "1",
+            "degree": 8,
+            "id": "david.baumbach@enron.com"
+        },
+        {
+            "community": 35,
+            "cluster_label": "1",
+            "degree": 7,
+            "id": "martin.cuilla@enron.com"
+        },
+        {
+            "community": 14,
+            "cluster_label": "1",
+            "degree": 7,
+            "id": "john.buchanan@enron.com"
+        },
+        {
+            "community": 34,
+            "cluster_label": "3",
+            "degree": 12,
+            "id": "jennifer.thome@enron.com"
+        },
+        {
+            "community": 13,
+            "cluster_label": "7",
+            "degree": 10,
+            "id": "eric.bass@enron.com"
+        },
+        {
+            "community": 36,
+            "cluster_label": "5",
+            "degree": 22,
+            "id": "louise.kitchen@enron.com"
+        },
+        {
+            "community": 12,
+            "cluster_label": "1",
+            "degree": 7,
+            "id": "w..delainey@enron.com"
+        },
+        {
+            "community": 37,
+            "cluster_label": "4",
+            "degree": 0,
+            "id": "undisclosed.recipients@mailman.enron.com"
+        },
+        {
+            "community": 38,
+            "cluster_label": "5",
+            "degree": 20,
+            "id": "chris.germany@enron.com"
+        },
+        {
+            "community": 39,
+            "cluster_label": "5",
+            "degree": 22,
+            "id": "drew.fossum@enron.com"
+        },
+        {
+            "community": 8,
+            "cluster_label": "1",
+            "degree": 8,
+            "id": "jae.black@enron.com"
+        },
+        {
+            "community": 40,
+            "cluster_label": "2",
+            "degree": 17,
+            "id": "paul.kaufman@enron.com"
+        },
+        {
+            "community": 41,
+            "cluster_label": "1",
+            "degree": 7,
+            "id": "victor.lamadrid@enron.com"
+        },
+        {
+            "community": 42,
+            "cluster_label": "3",
+            "degree": 13,
+            "id": "ginger.dernehl@enron.com"
+        },
+        {
+            "community": 43,
+            "cluster_label": "2",
+            "degree": 16,
+            "id": "d..steffes@enron.com"
+        },
+        {
+            "community": 44,
+            "cluster_label": "2",
+            "degree": 17,
+            "id": "richard.shapiro@enron.com"
+        },
+        {
+            "community": 45,
+            "cluster_label": "3",
+            "degree": 14,
+            "id": "robert.superty@enron.com"
+        },
+        {
+            "community": 25,
+            "cluster_label": "4",
+            "degree": 2,
+            "id": "scorman@enron.com"
+        },
+        {
+            "community": 46,
+            "cluster_label": "5",
+            "degree": 24,
+            "id": "steven.kean@enron.com"
+        },
+        {
+            "community": 47,
+            "cluster_label": "1",
+            "degree": 8,
+            "id": "beth.apollo@enron.com"
+        },
+        {
+            "community": 38,
+            "cluster_label": "7",
+            "degree": 9,
+            "id": "ruth.concannon@enron.com"
+        },
+        {
+            "community": 48,
+            "cluster_label": "2",
+            "degree": 17,
+            "id": "peter.keohane@enron.com"
+        },
+        {
+            "community": 8,
+            "cluster_label": "8",
+            "degree": 3,
+            "id": "f..campbell@enron.com"
+        },
+        {
+            "community": 43,
+            "cluster_label": "1",
+            "degree": 6,
+            "id": "sean.crandall@enron.com"
+        },
+        {
+            "community": 20,
+            "cluster_label": "2",
+            "degree": 17,
+            "id": "stanley.horton@enron.com"
+        },
+        {
+            "community": 26,
+            "cluster_label": "8",
+            "degree": 4,
+            "id": "robert.benson@enron.com"
+        },
+        {
+            "community": 31,
+            "cluster_label": "8",
+            "degree": 4,
+            "id": "scott.hendrickson@enron.com"
+        },
+        {
+            "community": 49,
+            "cluster_label": "5",
+            "degree": 21,
+            "id": "shelley.corman@enron.com"
+        },
+        {
+            "community": 47,
+            "cluster_label": "3",
+            "degree": 13,
+            "id": "richard.causey@enron.com"
+        },
+        {
+            "community": 50,
+            "cluster_label": "2",
+            "degree": 19,
+            "id": "james.derrick@enron.com"
+        },
+        {
+            "community": 18,
+            "cluster_label": "1",
+            "degree": 7,
+            "id": "larry.campbell@enron.com"
+        },
+        {
+            "community": 51,
+            "cluster_label": "4",
+            "degree": 0,
+            "id": "shendri@ect.enron.com"
+        },
+        {
+            "community": 47,
+            "cluster_label": "7",
+            "degree": 10,
+            "id": "brenda.herod@enron.com"
+        },
+        {
+            "community": 47,
+            "cluster_label": "7",
+            "degree": 9,
+            "id": "hector.mcloughlin@enron.com"
+        },
+        {
+            "community": 52,
+            "cluster_label": "5",
+            "degree": 24,
+            "id": "rick.buy@enron.com"
+        },
+        {
+            "community": 53,
+            "cluster_label": "4",
+            "degree": 1,
+            "id": "mark.fisher@enron.com"
+        },
+        {
+            "community": 54,
+            "cluster_label": "4",
+            "degree": 2,
+            "id": "judy.hernandez@enron.com"
+        },
+        {
+            "community": 55,
+            "cluster_label": "5",
+            "degree": 21,
+            "id": "e..haedicke@enron.com"
+        },
+        {
+            "community": 56,
+            "cluster_label": "3",
+            "degree": 12,
+            "id": "brian.redmond@enron.com"
+        },
+        {
+            "community": 21,
+            "cluster_label": "1",
+            "degree": 8,
+            "id": "f..brawner@enron.com"
+        },
+        {
+            "community": 58,
+            "cluster_label": "8",
+            "degree": 5,
+            "id": "mark.guzman@enron.com"
+        },
+        {
+            "community": 8,
+            "cluster_label": "1",
+            "degree": 7,
+            "id": "juan.hernandez@enron.com"
+        },
+        {
+            "community": 59,
+            "cluster_label": "4",
+            "degree": 0,
+            "id": "khyatt@enron.com"
+        },
+        {
+            "community": 60,
+            "cluster_label": "0",
+            "degree": 27,
+            "id": "michelle.cash@enron.com"
+        },
+        {
+            "community": 1,
+            "cluster_label": "8",
+            "degree": 3,
+            "id": "enron.announcements@enron.com"
+        },
+        {
+            "community": 38,
+            "cluster_label": "7",
+            "degree": 10,
+            "id": "john.hodge@enron.com"
+        },
+        {
+            "community": 21,
+            "cluster_label": "8",
+            "degree": 4,
+            "id": "tom.donohoe@enron.com"
+        },
+        {
+            "community": 61,
+            "cluster_label": "9",
+            "degree": 31,
+            "id": "david.delainey@enron.com"
+        },
+        {
+            "community": 62,
+            "cluster_label": "6",
+            "degree": 42,
+            "id": "jeff.dasovich@enron.com"
+        },
+        {
+            "community": 2,
+            "cluster_label": "7",
+            "degree": 11,
+            "id": "a..howard@enron.com"
+        },
+        {
+            "community": 63,
+            "cluster_label": "2",
+            "degree": 16,
+            "id": "doug.gilbert-smith@enron.com"
+        },
+        {
+            "community": 14,
+            "cluster_label": "3",
+            "degree": 13,
+            "id": "tracy.geaccone@enron.com"
+        },
+        {
+            "community": 41,
+            "cluster_label": "7",
+            "degree": 9,
+            "id": "darron.giron@enron.com"
+        },
+        {
+            "community": 47,
+            "cluster_label": "7",
+            "degree": 9,
+            "id": "patti.thompson@enron.com"
+        },
+        {
+            "community": 64,
+            "cluster_label": "5",
+            "degree": 24,
+            "id": "stephanie.sever@enron.com"
+        },
+        {
+            "community": 65,
+            "cluster_label": "5",
+            "degree": 22,
+            "id": "jeffrey.hodge@enron.com"
+        },
+        {
+            "community": 53,
+            "cluster_label": "7",
+            "degree": 9,
+            "id": "clint.dean@enron.com"
+        },
+        {
+            "community": 26,
+            "cluster_label": "1",
+            "degree": 7,
+            "id": "dana.davis@enron.com"
+        },
+        {
+            "community": 42,
+            "cluster_label": "3",
+            "degree": 14,
+            "id": "mike.smith@enron.com"
+        },
+        {
+            "community": 66,
+            "cluster_label": "2",
+            "degree": 17,
+            "id": "mary.cook@enron.com"
+        },
+        {
+            "community": 8,
+            "cluster_label": "3",
+            "degree": 13,
+            "id": "don.baughman@enron.com"
+        },
+        {
+            "community": 67,
+            "cluster_label": "7",
+            "degree": 11,
+            "id": "shona.wilson@enron.com"
+        },
+        {
+            "community": 68,
+            "cluster_label": "9",
+            "degree": 35,
+            "id": "mark.haedicke@enron.com"
+        },
+        {
+            "community": 69,
+            "cluster_label": "2",
+            "degree": 16,
+            "id": "mark.taylor@enron.com"
+        },
+        {
+            "community": 67,
+            "cluster_label": "7",
+            "degree": 9,
+            "id": "ted.murphy@enron.com"
+        },
+        {
+            "community": 28,
+            "cluster_label": "2",
+            "degree": 19,
+            "id": "ina.rangel@enron.com"
+        },
+        {
+            "community": 14,
+            "cluster_label": "7",
+            "degree": 11,
+            "id": "lindy.donoho@enron.com"
+        },
+        {
+            "community": 70,
+            "cluster_label": "2",
+            "degree": 19,
+            "id": "dan.hyvl@enron.com"
+        },
+        {
+            "community": 71,
+            "cluster_label": "8",
+            "degree": 4,
+            "id": "mary.poorman@enron.com"
+        },
+        {
+            "community": 72,
+            "cluster_label": "2",
+            "degree": 17,
+            "id": "vince.kaminski@enron.com"
+        },
+        {
+            "community": 8,
+            "cluster_label": "3",
+            "degree": 13,
+            "id": "lloyd.will@enron.com"
+        },
+        {
+            "community": 53,
+            "cluster_label": "3",
+            "degree": 13,
+            "id": "no.address@enron.com"
+        },
+        {
+            "community": 31,
+            "cluster_label": "1",
+            "degree": 7,
+            "id": "sandra.brawner@enron.com"
+        },
+        {
+            "community": 25,
+            "cluster_label": "8",
+            "degree": 3,
+            "id": "mark.e.haedicke@enron.com"
+        },
+        {
+            "community": 73,
+            "cluster_label": "3",
+            "degree": 15,
+            "id": "karen.denne@enron.com"
+        },
+        {
+            "community": 19,
+            "cluster_label": "3",
+            "degree": 14,
+            "id": "carol.clair@enron.com"
+        },
+        {
+            "community": 21,
+            "cluster_label": "3",
+            "degree": 12,
+            "id": "david.oxley@enron.com"
+        },
+        {
+            "community": 74,
+            "cluster_label": "1",
+            "degree": 8,
+            "id": "keith.holst@enron.com"
+        },
+        {
+            "community": 75,
+            "cluster_label": "0",
+            "degree": 27,
+            "id": "james.steffes@enron.com"
+        },
+        {
+            "community": 27,
+            "cluster_label": "3",
+            "degree": 14,
+            "id": "susan.bailey@enron.com"
+        },
+        {
+            "community": 76,
+            "cluster_label": "0",
+            "degree": 27,
+            "id": "john.lavorato@enron.com"
+        },
+        {
+            "community": 14,
+            "cluster_label": "1",
+            "degree": 6,
+            "id": "jeffery.fawcett@enron.com"
+        },
+        {
+            "community": 11,
+            "cluster_label": "4",
+            "degree": 2,
+            "id": "mcuilla@enron.com"
+        },
+        {
+            "community": 63,
+            "cluster_label": "7",
+            "degree": 9,
+            "id": "harry.arora@enron.com"
+        },
+        {
+            "community": 77,
+            "cluster_label": "2",
+            "degree": 16,
+            "id": "mark.greenberg@enron.com"
+        },
+        {
+            "community": 32,
+            "cluster_label": "8",
+            "degree": 3,
+            "id": "jdasovic@enron.com"
+        },
+        {
+            "community": 0,
+            "cluster_label": "2",
+            "degree": 19,
+            "id": "ed.mcmichael@enron.com"
+        },
+        {
+            "community": 11,
+            "cluster_label": "8",
+            "degree": 4,
+            "id": "ebass@enron.com"
+        },
+        {
+            "community": 34,
+            "cluster_label": "4",
+            "degree": 1,
+            "id": "lisa.gang@enron.com"
+        },
+        {
+            "community": 18,
+            "cluster_label": "4",
+            "degree": 1,
+            "id": "pallen@enron.com"
+        },
+        {
+            "community": 53,
+            "cluster_label": "8",
+            "degree": 5,
+            "id": "mike.carson@enron.com"
+        },
+        {
+            "community": 58,
+            "cluster_label": "8",
+            "degree": 4,
+            "id": "monika.causholli@enron.com"
+        },
+        {
+            "community": 78,
+            "cluster_label": "5",
+            "degree": 20,
+            "id": "alan.aronowitz@enron.com"
+        },
+        {
+            "community": 79,
+            "cluster_label": "4",
+            "degree": 0,
+            "id": "dfarmer@ect.enron.com"
+        },
+        {
+            "community": 80,
+            "cluster_label": "6",
+            "degree": 38,
+            "id": "sally.beck@enron.com"
+        },
+        {
+            "community": 81,
+            "cluster_label": "2",
+            "degree": 16,
+            "id": "leslie.lawner@enron.com"
+        },
+        {
+            "community": 82,
+            "cluster_label": "2",
+            "degree": 19,
+            "id": "vicki.sharp@enron.com"
+        },
+        {
+            "community": 83,
+            "cluster_label": "2",
+            "degree": 18,
+            "id": "t..hodge@enron.com"
+        },
+        {
+            "community": 32,
+            "cluster_label": "3",
+            "degree": 12,
+            "id": "mday@gmssr.com"
+        },
+        {
+            "community": 74,
+            "cluster_label": "2",
+            "degree": 17,
+            "id": "k..allen@enron.com"
+        },
+        {
+            "community": 20,
+            "cluster_label": "1",
+            "degree": 8,
+            "id": "cindy.stark@enron.com"
+        },
+        {
+            "community": 71,
+            "cluster_label": "3",
+            "degree": 14,
+            "id": "daren.farmer@enron.com"
+        },
+        {
+            "community": 35,
+            "cluster_label": "3",
+            "degree": 14,
+            "id": "john.griffith@enron.com"
+        },
+        {
+            "community": 84,
+            "cluster_label": "2",
+            "degree": 19,
+            "id": "rod.hayslett@enron.com"
+        },
+        {
+            "community": 15,
+            "cluster_label": "4",
+            "degree": 2,
+            "id": "rob.gay@enron.com"
+        },
+        {
+            "community": 9,
+            "cluster_label": "5",
+            "degree": 21,
+            "id": "alan.comnes@enron.com"
+        },
+        {
+            "community": 12,
+            "cluster_label": "7",
+            "degree": 11,
+            "id": "raymond.bowen@enron.com"
+        },
+        {
+            "community": 28,
+            "cluster_label": "7",
+            "degree": 11,
+            "id": "randall.gay@enron.com"
+        },
+        {
+            "community": 5,
+            "cluster_label": "0",
+            "degree": 27,
+            "id": "phillip.allen@enron.com"
+        },
+        {
+            "community": 73,
+            "cluster_label": "3",
+            "degree": 14,
+            "id": "joseph.alamo@enron.com"
+        },
+        {
+            "community": 57,
+            "cluster_label": "3",
+            "degree": 13,
+            "id": "greg.piper@enron.com"
+        },
+        {
+            "community": 67,
+            "cluster_label": "7",
+            "degree": 9,
+            "id": "40enron@enron.com"
+        }
+    ],
+    "links": [
+        {
+            "source": "c..giron@enron.com",
+            "target": "c..giron@enron.com"
+        },
+        {
+            "source": "c..giron@enron.com",
+            "target": "ed.mcmichael@enron.com"
+        },
+        {
+            "source": "c..giron@enron.com",
+            "target": "shona.wilson@enron.com"
+        },
+        {
+            "source": "c..giron@enron.com",
+            "target": "exchange.administrator@enron.com"
+        },
+        {
+            "source": "tana.jones@enron.com",
+            "target": "susan.bailey@enron.com"
+        },
+        {
+            "source": "tana.jones@enron.com",
+            "target": "alan.aronowitz@enron.com"
+        },
+        {
+            "source": "tana.jones@enron.com",
+            "target": "marie.heard@enron.com"
+        },
+        {
+            "source": "tana.jones@enron.com",
+            "target": "sara.shackleton@enron.com"
+        },
+        {
+            "source": "tana.jones@enron.com",
+            "target": "mary.cook@enron.com"
+        },
+        {
+            "source": "tana.jones@enron.com",
+            "target": "david.forster@enron.com"
+        },
+        {
+            "source": "tana.jones@enron.com",
+            "target": "peter.keohane@enron.com"
+        },
+        {
+            "source": "tana.jones@enron.com",
+            "target": "carol.clair@enron.com"
+        },
+        {
+            "source": "tana.jones@enron.com",
+            "target": "jeffrey.hodge@enron.com"
+        },
+        {
+            "source": "tana.jones@enron.com",
+            "target": "mark.taylor@enron.com"
+        },
+        {
+            "source": "tana.jones@enron.com",
+            "target": "mark.greenberg@enron.com"
+        },
+        {
+            "source": "tana.jones@enron.com",
+            "target": "john.arnold@enron.com"
+        },
+        {
+            "source": "tana.jones@enron.com",
+            "target": "stephanie.panus@enron.com"
+        },
+        {
+            "source": "tana.jones@enron.com",
+            "target": "louise.kitchen@enron.com"
+        },
+        {
+            "source": "tana.jones@enron.com",
+            "target": "russell.diamond@enron.com"
+        },
+        {
+            "source": "tana.jones@enron.com",
+            "target": "tanya.rohauer@enron.com"
+        },
+        {
+            "source": "tana.jones@enron.com",
+            "target": "stephanie.sever@enron.com"
+        },
+        {
+            "source": "tana.jones@enron.com",
+            "target": "leslie.hansen@enron.com"
+        },
+        {
+            "source": "tana.jones@enron.com",
+            "target": "stacy.dickson@enron.com"
+        },
+        {
+            "source": "tana.jones@enron.com",
+            "target": "mike.smith@enron.com"
+        },
+        {
+            "source": "tana.jones@enron.com",
+            "target": "tana.jones@enron.com"
+        },
+        {
+            "source": "tana.jones@enron.com",
+            "target": "lisa.mellencamp@enron.com"
+        },
+        {
+            "source": "tana.jones@enron.com",
+            "target": "rod.hayslett@enron.com"
+        },
+        {
+            "source": "tana.jones@enron.com",
+            "target": "ted.murphy@enron.com"
+        },
+        {
+            "source": "tana.jones@enron.com",
+            "target": "steven.kean@enron.com"
+        },
+        {
+            "source": "tana.jones@enron.com",
+            "target": "dan.hyvl@enron.com"
+        },
+        {
+            "source": "tana.jones@enron.com",
+            "target": "enron.announcements@enron.com"
+        },
+        {
+            "source": "tana.jones@enron.com",
+            "target": "tim.belden@enron.com"
+        },
+        {
+            "source": "tana.jones@enron.com",
+            "target": "janette.elbertson@enron.com"
+        },
+        {
+            "source": "tana.jones@enron.com",
+            "target": "mark.haedicke@enron.com"
+        },
+        {
+            "source": "tana.jones@enron.com",
+            "target": "greg.piper@enron.com"
+        },
+        {
+            "source": "tana.jones@enron.com",
+            "target": "exchange.administrator@enron.com"
+        },
+        {
+            "source": "tana.jones@enron.com",
+            "target": "perfmgmt@enron.com"
+        },
+        {
+            "source": "rob.walls@enron.com",
+            "target": "michelle.cash@enron.com"
+        },
+        {
+            "source": "rob.walls@enron.com",
+            "target": "james.derrick@enron.com"
+        },
+        {
+            "source": "rob.walls@enron.com",
+            "target": "karen.denne@enron.com"
+        },
+        {
+            "source": "rob.walls@enron.com",
+            "target": "mark.haedicke@enron.com"
+        },
+        {
+            "source": "rob.walls@enron.com",
+            "target": "e..haedicke@enron.com"
+        },
+        {
+            "source": "rob.walls@enron.com",
+            "target": "a..howard@enron.com"
+        },
+        {
+            "source": "rob.walls@enron.com",
+            "target": "stanley.horton@enron.com"
+        },
+        {
+            "source": "rob.walls@enron.com",
+            "target": "lisa.mellencamp@enron.com"
+        },
+        {
+            "source": "rob.walls@enron.com",
+            "target": "mary.cook@enron.com"
+        },
+        {
+            "source": "rob.walls@enron.com",
+            "target": "mark.greenberg@enron.com"
+        },
+        {
+            "source": "sara.shackleton@enron.com",
+            "target": "susan.bailey@enron.com"
+        },
+        {
+            "source": "sara.shackleton@enron.com",
+            "target": "ed.mcmichael@enron.com"
+        },
+        {
+            "source": "sara.shackleton@enron.com",
+            "target": "stephanie.panus@enron.com"
+        },
+        {
+            "source": "sara.shackleton@enron.com",
+            "target": "alan.aronowitz@enron.com"
+        },
+        {
+            "source": "sara.shackleton@enron.com",
+            "target": "marie.heard@enron.com"
+        },
+        {
+            "source": "sara.shackleton@enron.com",
+            "target": "tanya.rohauer@enron.com"
+        },
+        {
+            "source": "sara.shackleton@enron.com",
+            "target": "mary.cook@enron.com"
+        },
+        {
+            "source": "sara.shackleton@enron.com",
+            "target": "mark.taylor@enron.com"
+        },
+        {
+            "source": "sara.shackleton@enron.com",
+            "target": "carol.clair@enron.com"
+        },
+        {
+            "source": "sara.shackleton@enron.com",
+            "target": "exchange.administrator@enron.com"
+        },
+        {
+            "source": "sara.shackleton@enron.com",
+            "target": "stacy.dickson@enron.com"
+        },
+        {
+            "source": "sara.shackleton@enron.com",
+            "target": "chris.germany@enron.com"
+        },
+        {
+            "source": "russell.diamond@enron.com",
+            "target": "john.griffith@enron.com"
+        },
+        {
+            "source": "russell.diamond@enron.com",
+            "target": "jeffrey.hodge@enron.com"
+        },
+        {
+            "source": "russell.diamond@enron.com",
+            "target": "dan.hyvl@enron.com"
+        },
+        {
+            "source": "russell.diamond@enron.com",
+            "target": "lisa.mellencamp@enron.com"
+        },
+        {
+            "source": "russell.diamond@enron.com",
+            "target": "mary.cook@enron.com"
+        },
+        {
+            "source": "russell.diamond@enron.com",
+            "target": "carol.clair@enron.com"
+        },
+        {
+            "source": "russell.diamond@enron.com",
+            "target": "susan.bailey@enron.com"
+        },
+        {
+            "source": "russell.diamond@enron.com",
+            "target": "marie.heard@enron.com"
+        },
+        {
+            "source": "russell.diamond@enron.com",
+            "target": "john.arnold@enron.com"
+        },
+        {
+            "source": "russell.diamond@enron.com",
+            "target": "tanya.rohauer@enron.com"
+        },
+        {
+            "source": "russell.diamond@enron.com",
+            "target": "stacy.dickson@enron.com"
+        },
+        {
+            "source": "russell.diamond@enron.com",
+            "target": "darron.giron@enron.com"
+        },
+        {
+            "source": "russell.diamond@enron.com",
+            "target": "sandra.brawner@enron.com"
+        },
+        {
+            "source": "russell.diamond@enron.com",
+            "target": "randall.gay@enron.com"
+        },
+        {
+            "source": "lcampbel@enron.com",
+            "target": "perfmgmt@enron.com"
+        },
+        {
+            "source": "lcampbel@enron.com",
+            "target": "larry.campbell@enron.com"
+        },
+        {
+            "source": "david.forster@enron.com",
+            "target": "john.arnold@enron.com"
+        },
+        {
+            "source": "david.forster@enron.com",
+            "target": "don.baughman@enron.com"
+        },
+        {
+            "source": "david.forster@enron.com",
+            "target": "sally.beck@enron.com"
+        },
+        {
+            "source": "david.forster@enron.com",
+            "target": "doug.gilbert-smith@enron.com"
+        },
+        {
+            "source": "david.forster@enron.com",
+            "target": "david.forster@enron.com"
+        },
+        {
+            "source": "david.forster@enron.com",
+            "target": "carol.clair@enron.com"
+        },
+        {
+            "source": "david.forster@enron.com",
+            "target": "louise.kitchen@enron.com"
+        },
+        {
+            "source": "david.forster@enron.com",
+            "target": "tim.belden@enron.com"
+        },
+        {
+            "source": "david.forster@enron.com",
+            "target": "mark.taylor@enron.com"
+        },
+        {
+            "source": "david.forster@enron.com",
+            "target": "chris.dorland@enron.com"
+        },
+        {
+            "source": "david.forster@enron.com",
+            "target": "leslie.hansen@enron.com"
+        },
+        {
+            "source": "david.forster@enron.com",
+            "target": "drew.fossum@enron.com"
+        },
+        {
+            "source": "david.forster@enron.com",
+            "target": "stephanie.sever@enron.com"
+        },
+        {
+            "source": "david.forster@enron.com",
+            "target": "mark.haedicke@enron.com"
+        },
+        {
+            "source": "david.forster@enron.com",
+            "target": "harry.arora@enron.com"
+        },
+        {
+            "source": "john.arnold@enron.com",
+            "target": "ina.rangel@enron.com"
+        },
+        {
+            "source": "john.arnold@enron.com",
+            "target": "john.lavorato@enron.com"
+        },
+        {
+            "source": "john.arnold@enron.com",
+            "target": "john.griffith@enron.com"
+        },
+        {
+            "source": "john.arnold@enron.com",
+            "target": "john.arnold@enron.com"
+        },
+        {
+            "source": "john.arnold@enron.com",
+            "target": "louise.kitchen@enron.com"
+        },
+        {
+            "source": "john.arnold@enron.com",
+            "target": "mary.cook@enron.com"
+        },
+        {
+            "source": "john.arnold@enron.com",
+            "target": "ted.murphy@enron.com"
+        },
+        {
+            "source": "john.arnold@enron.com",
+            "target": "phillip.allen@enron.com"
+        },
+        {
+            "source": "john.arnold@enron.com",
+            "target": "jeffrey.hodge@enron.com"
+        },
+        {
+            "source": "john.arnold@enron.com",
+            "target": "vince.kaminski@enron.com"
+        },
+        {
+            "source": "john.arnold@enron.com",
+            "target": "stephanie.sever@enron.com"
+        },
+        {
+            "source": "john.arnold@enron.com",
+            "target": "sandra.brawner@enron.com"
+        },
+        {
+            "source": "john.arnold@enron.com",
+            "target": "ed.mcmichael@enron.com"
+        },
+        {
+            "source": "john.arnold@enron.com",
+            "target": "scott.neal@enron.com"
+        },
+        {
+            "source": "john.arnold@enron.com",
+            "target": "greg.piper@enron.com"
+        },
+        {
+            "source": "john.arnold@enron.com",
+            "target": "f..brawner@enron.com"
+        },
+        {
+            "source": "john.arnold@enron.com",
+            "target": "tanya.rohauer@enron.com"
+        },
+        {
+            "source": "john.arnold@enron.com",
+            "target": "mike.grigsby@enron.com"
+        },
+        {
+            "source": "m..forney@enron.com",
+            "target": "clint.dean@enron.com"
+        },
+        {
+            "source": "m..forney@enron.com",
+            "target": "jae.black@enron.com"
+        },
+        {
+            "source": "m..forney@enron.com",
+            "target": "lloyd.will@enron.com"
+        },
+        {
+            "source": "m..forney@enron.com",
+            "target": "juan.hernandez@enron.com"
+        },
+        {
+            "source": "m..forney@enron.com",
+            "target": "tim.belden@enron.com"
+        },
+        {
+            "source": "m..forney@enron.com",
+            "target": "robert.badeer@enron.com"
+        },
+        {
+            "source": "m..forney@enron.com",
+            "target": "doug.gilbert-smith@enron.com"
+        },
+        {
+            "source": "lynn.blair@enron.com",
+            "target": "shelley.corman@enron.com"
+        },
+        {
+            "source": "lynn.blair@enron.com",
+            "target": "lynn.blair@enron.com"
+        },
+        {
+            "source": "lynn.blair@enron.com",
+            "target": "drew.fossum@enron.com"
+        },
+        {
+            "source": "lynn.blair@enron.com",
+            "target": "john.buchanan@enron.com"
+        },
+        {
+            "source": "lynn.blair@enron.com",
+            "target": "louis.soldano@enron.com"
+        },
+        {
+            "source": "lynn.blair@enron.com",
+            "target": "lindy.donoho@enron.com"
+        },
+        {
+            "source": "lynn.blair@enron.com",
+            "target": "tracy.geaccone@enron.com"
+        },
+        {
+            "source": "lynn.blair@enron.com",
+            "target": "steven.harris@enron.com"
+        },
+        {
+            "source": "tanya.rohauer@enron.com",
+            "target": "rick.buy@enron.com"
+        },
+        {
+            "source": "tanya.rohauer@enron.com",
+            "target": "john.griffith@enron.com"
+        },
+        {
+            "source": "tanya.rohauer@enron.com",
+            "target": "marie.heard@enron.com"
+        },
+        {
+            "source": "tanya.rohauer@enron.com",
+            "target": "mary.cook@enron.com"
+        },
+        {
+            "source": "tanya.rohauer@enron.com",
+            "target": "jeffrey.hodge@enron.com"
+        },
+        {
+            "source": "tanya.rohauer@enron.com",
+            "target": "mark.taylor@enron.com"
+        },
+        {
+            "source": "tanya.rohauer@enron.com",
+            "target": "t..hodge@enron.com"
+        },
+        {
+            "source": "tanya.rohauer@enron.com",
+            "target": "dan.hyvl@enron.com"
+        },
+        {
+            "source": "tanya.rohauer@enron.com",
+            "target": "susan.bailey@enron.com"
+        },
+        {
+            "source": "tanya.rohauer@enron.com",
+            "target": "stacy.dickson@enron.com"
+        },
+        {
+            "source": "tanya.rohauer@enron.com",
+            "target": "stephanie.panus@enron.com"
+        },
+        {
+            "source": "tanya.rohauer@enron.com",
+            "target": "peter.keohane@enron.com"
+        },
+        {
+            "source": "tanya.rohauer@enron.com",
+            "target": "carol.clair@enron.com"
+        },
+        {
+            "source": "tanya.rohauer@enron.com",
+            "target": "alan.aronowitz@enron.com"
+        },
+        {
+            "source": "tanya.rohauer@enron.com",
+            "target": "sally.beck@enron.com"
+        },
+        {
+            "source": "mike.grigsby@enron.com",
+            "target": "k..allen@enron.com"
+        },
+        {
+            "source": "mike.grigsby@enron.com",
+            "target": "keith.holst@enron.com"
+        },
+        {
+            "source": "mike.grigsby@enron.com",
+            "target": "john.lavorato@enron.com"
+        },
+        {
+            "source": "mike.grigsby@enron.com",
+            "target": "robert.badeer@enron.com"
+        },
+        {
+            "source": "mike.grigsby@enron.com",
+            "target": "mcuilla@enron.com"
+        },
+        {
+            "source": "mike.grigsby@enron.com",
+            "target": "martin.cuilla@enron.com"
+        },
+        {
+            "source": "mike.grigsby@enron.com",
+            "target": "phillip.allen@enron.com"
+        },
+        {
+            "source": "mike.grigsby@enron.com",
+            "target": "frank.ermis@enron.com"
+        },
+        {
+            "source": "mike.grigsby@enron.com",
+            "target": "randall.gay@enron.com"
+        },
+        {
+            "source": "mike.grigsby@enron.com",
+            "target": "ina.rangel@enron.com"
+        },
+        {
+            "source": "mike.grigsby@enron.com",
+            "target": "mike.grigsby@enron.com"
+        },
+        {
+            "source": "mike.grigsby@enron.com",
+            "target": "stephanie.sever@enron.com"
+        },
+        {
+            "source": "mike.grigsby@enron.com",
+            "target": "darron.giron@enron.com"
+        },
+        {
+            "source": "mike.grigsby@enron.com",
+            "target": "jeffrey.hodge@enron.com"
+        },
+        {
+            "source": "mike.grigsby@enron.com",
+            "target": "scott.neal@enron.com"
+        },
+        {
+            "source": "mike.grigsby@enron.com",
+            "target": "robert.superty@enron.com"
+        },
+        {
+            "source": "mike.grigsby@enron.com",
+            "target": "chris.dorland@enron.com"
+        },
+        {
+            "source": "mike.grigsby@enron.com",
+            "target": "louise.kitchen@enron.com"
+        },
+        {
+            "source": "mike.grigsby@enron.com",
+            "target": "t..hodge@enron.com"
+        },
+        {
+            "source": "mike.grigsby@enron.com",
+            "target": "exchange.administrator@enron.com"
+        },
+        {
+            "source": "mike.grigsby@enron.com",
+            "target": "perfmgmt@enron.com"
+        },
+        {
+            "source": "kay.chapman@enron.com",
+            "target": "tim.belden@enron.com"
+        },
+        {
+            "source": "kay.chapman@enron.com",
+            "target": "sally.beck@enron.com"
+        },
+        {
+            "source": "kay.chapman@enron.com",
+            "target": "kay.chapman@enron.com"
+        },
+        {
+            "source": "kay.chapman@enron.com",
+            "target": "john.lavorato@enron.com"
+        },
+        {
+            "source": "kay.chapman@enron.com",
+            "target": "ina.rangel@enron.com"
+        },
+        {
+            "source": "kay.chapman@enron.com",
+            "target": "patti.thompson@enron.com"
+        },
+        {
+            "source": "kay.chapman@enron.com",
+            "target": "brian.redmond@enron.com"
+        },
+        {
+            "source": "kay.chapman@enron.com",
+            "target": "raymond.bowen@enron.com"
+        },
+        {
+            "source": "kay.chapman@enron.com",
+            "target": "david.delainey@enron.com"
+        },
+        {
+            "source": "kay.chapman@enron.com",
+            "target": "mark.haedicke@enron.com"
+        },
+        {
+            "source": "kay.chapman@enron.com",
+            "target": "janette.elbertson@enron.com"
+        },
+        {
+            "source": "kay.chapman@enron.com",
+            "target": "w..delainey@enron.com"
+        },
+        {
+            "source": "kay.chapman@enron.com",
+            "target": "chris.germany@enron.com"
+        },
+        {
+            "source": "kay.chapman@enron.com",
+            "target": "michelle.cash@enron.com"
+        },
+        {
+            "source": "kay.chapman@enron.com",
+            "target": "vince.kaminski@enron.com"
+        },
+        {
+            "source": "j..farmer@enron.com",
+            "target": "eric.bass@enron.com"
+        },
+        {
+            "source": "j..farmer@enron.com",
+            "target": "robert.superty@enron.com"
+        },
+        {
+            "source": "j..farmer@enron.com",
+            "target": "t..hodge@enron.com"
+        },
+        {
+            "source": "j..farmer@enron.com",
+            "target": "victor.lamadrid@enron.com"
+        },
+        {
+            "source": "j..farmer@enron.com",
+            "target": "david.baumbach@enron.com"
+        },
+        {
+            "source": "j..farmer@enron.com",
+            "target": "brian.redmond@enron.com"
+        },
+        {
+            "source": "j..farmer@enron.com",
+            "target": "ed.mcmichael@enron.com"
+        },
+        {
+            "source": "j..farmer@enron.com",
+            "target": "mary.poorman@enron.com"
+        },
+        {
+            "source": "j..farmer@enron.com",
+            "target": "stephanie.sever@enron.com"
+        },
+        {
+            "source": "steven.harris@enron.com",
+            "target": "jeff.dasovich@enron.com"
+        },
+        {
+            "source": "steven.harris@enron.com",
+            "target": "lindy.donoho@enron.com"
+        },
+        {
+            "source": "steven.harris@enron.com",
+            "target": "a..howard@enron.com"
+        },
+        {
+            "source": "steven.harris@enron.com",
+            "target": "rod.hayslett@enron.com"
+        },
+        {
+            "source": "steven.harris@enron.com",
+            "target": "drew.fossum@enron.com"
+        },
+        {
+            "source": "steven.harris@enron.com",
+            "target": "tracy.geaccone@enron.com"
+        },
+        {
+            "source": "steven.harris@enron.com",
+            "target": "kevin.hyatt@enron.com"
+        },
+        {
+            "source": "steven.harris@enron.com",
+            "target": "cindy.stark@enron.com"
+        },
+        {
+            "source": "steven.harris@enron.com",
+            "target": "louis.soldano@enron.com"
+        },
+        {
+            "source": "steven.harris@enron.com",
+            "target": "shelley.corman@enron.com"
+        },
+        {
+            "source": "steven.harris@enron.com",
+            "target": "jeffery.fawcett@enron.com"
+        },
+        {
+            "source": "michael.tribolet@enron.com",
+            "target": "rick.buy@enron.com"
+        },
+        {
+            "source": "michael.tribolet@enron.com",
+            "target": "david.delainey@enron.com"
+        },
+        {
+            "source": "michael.tribolet@enron.com",
+            "target": "lisa.mellencamp@enron.com"
+        },
+        {
+            "source": "michael.tribolet@enron.com",
+            "target": "james.steffes@enron.com"
+        },
+        {
+            "source": "michael.tribolet@enron.com",
+            "target": "jeff.dasovich@enron.com"
+        },
+        {
+            "source": "michael.tribolet@enron.com",
+            "target": "richard.shapiro@enron.com"
+        },
+        {
+            "source": "michael.tribolet@enron.com",
+            "target": "vicki.sharp@enron.com"
+        },
+        {
+            "source": "michael.tribolet@enron.com",
+            "target": "steven.kean@enron.com"
+        },
+        {
+            "source": "michael.tribolet@enron.com",
+            "target": "susan.mara@enron.com"
+        },
+        {
+            "source": "michael.tribolet@enron.com",
+            "target": "michael.tribolet@enron.com"
+        },
+        {
+            "source": "michael.tribolet@enron.com",
+            "target": "phillip.allen@enron.com"
+        },
+        {
+            "source": "michael.tribolet@enron.com",
+            "target": "mike.smith@enron.com"
+        },
+        {
+            "source": "michael.tribolet@enron.com",
+            "target": "alan.comnes@enron.com"
+        },
+        {
+            "source": "michael.tribolet@enron.com",
+            "target": "jennifer.thome@enron.com"
+        },
+        {
+            "source": "michael.tribolet@enron.com",
+            "target": "d..steffes@enron.com"
+        },
+        {
+            "source": "michael.tribolet@enron.com",
+            "target": "john.lavorato@enron.com"
+        },
+        {
+            "source": "michael.tribolet@enron.com",
+            "target": "harry.kingerski@enron.com"
+        },
+        {
+            "source": "michael.tribolet@enron.com",
+            "target": "rob.gay@enron.com"
+        },
+        {
+            "source": "mary.hain@enron.com",
+            "target": "james.steffes@enron.com"
+        },
+        {
+            "source": "mary.hain@enron.com",
+            "target": "robert.badeer@enron.com"
+        },
+        {
+            "source": "mary.hain@enron.com",
+            "target": "tim.belden@enron.com"
+        },
+        {
+            "source": "mary.hain@enron.com",
+            "target": "jeff.dasovich@enron.com"
+        },
+        {
+            "source": "mary.hain@enron.com",
+            "target": "susan.mara@enron.com"
+        },
+        {
+            "source": "mary.hain@enron.com",
+            "target": "richard.shapiro@enron.com"
+        },
+        {
+            "source": "mary.hain@enron.com",
+            "target": "mike.smith@enron.com"
+        },
+        {
+            "source": "mary.hain@enron.com",
+            "target": "steven.kean@enron.com"
+        },
+        {
+            "source": "mary.hain@enron.com",
+            "target": "lysa.akin@enron.com"
+        },
+        {
+            "source": "mary.hain@enron.com",
+            "target": "christi.nicolay@enron.com"
+        },
+        {
+            "source": "mary.hain@enron.com",
+            "target": "paul.kaufman@enron.com"
+        },
+        {
+            "source": "mary.hain@enron.com",
+            "target": "phillip.allen@enron.com"
+        },
+        {
+            "source": "mary.hain@enron.com",
+            "target": "mark.haedicke@enron.com"
+        },
+        {
+            "source": "mary.hain@enron.com",
+            "target": "alan.comnes@enron.com"
+        },
+        {
+            "source": "mary.hain@enron.com",
+            "target": "mday@gmssr.com"
+        },
+        {
+            "source": "mary.hain@enron.com",
+            "target": "mary.hain@enron.com"
+        },
+        {
+            "source": "mary.hain@enron.com",
+            "target": "leslie.lawner@enron.com"
+        },
+        {
+            "source": "mary.hain@enron.com",
+            "target": "shelley.corman@enron.com"
+        },
+        {
+            "source": "mary.hain@enron.com",
+            "target": "sean.crandall@enron.com"
+        },
+        {
+            "source": "dfarmer@enron.com",
+            "target": "perfmgmt@enron.com"
+        },
+        {
+            "source": "marie.heard@enron.com",
+            "target": "susan.bailey@enron.com"
+        },
+        {
+            "source": "marie.heard@enron.com",
+            "target": "alan.aronowitz@enron.com"
+        },
+        {
+            "source": "marie.heard@enron.com",
+            "target": "mary.cook@enron.com"
+        },
+        {
+            "source": "marie.heard@enron.com",
+            "target": "marie.heard@enron.com"
+        },
+        {
+            "source": "marie.heard@enron.com",
+            "target": "rick.buy@enron.com"
+        },
+        {
+            "source": "marie.heard@enron.com",
+            "target": "stephanie.panus@enron.com"
+        },
+        {
+            "source": "marie.heard@enron.com",
+            "target": "peter.keohane@enron.com"
+        },
+        {
+            "source": "marie.heard@enron.com",
+            "target": "leslie.hansen@enron.com"
+        },
+        {
+            "source": "marie.heard@enron.com",
+            "target": "carol.clair@enron.com"
+        },
+        {
+            "source": "louis.soldano@enron.com",
+            "target": "larry.campbell@enron.com"
+        },
+        {
+            "source": "louis.soldano@enron.com",
+            "target": "drew.fossum@enron.com"
+        },
+        {
+            "source": "louis.soldano@enron.com",
+            "target": "rod.hayslett@enron.com"
+        },
+        {
+            "source": "louis.soldano@enron.com",
+            "target": "stanley.horton@enron.com"
+        },
+        {
+            "source": "louis.soldano@enron.com",
+            "target": "kevin.hyatt@enron.com"
+        },
+        {
+            "source": "louis.soldano@enron.com",
+            "target": "cindy.stark@enron.com"
+        },
+        {
+            "source": "twanda.sweet@enron.com",
+            "target": "michelle.cash@enron.com"
+        },
+        {
+            "source": "twanda.sweet@enron.com",
+            "target": "mark.greenberg@enron.com"
+        },
+        {
+            "source": "twanda.sweet@enron.com",
+            "target": "jeff.dasovich@enron.com"
+        },
+        {
+            "source": "twanda.sweet@enron.com",
+            "target": "tim.belden@enron.com"
+        },
+        {
+            "source": "twanda.sweet@enron.com",
+            "target": "mark.haedicke@enron.com"
+        },
+        {
+            "source": "twanda.sweet@enron.com",
+            "target": "alan.aronowitz@enron.com"
+        },
+        {
+            "source": "twanda.sweet@enron.com",
+            "target": "david.oxley@enron.com"
+        },
+        {
+            "source": "lysa.akin@enron.com",
+            "target": "james.steffes@enron.com"
+        },
+        {
+            "source": "lysa.akin@enron.com",
+            "target": "jeff.dasovich@enron.com"
+        },
+        {
+            "source": "lysa.akin@enron.com",
+            "target": "mona.petrochko@enron.com"
+        },
+        {
+            "source": "lysa.akin@enron.com",
+            "target": "lysa.akin@enron.com"
+        },
+        {
+            "source": "lysa.akin@enron.com",
+            "target": "susan.mara@enron.com"
+        },
+        {
+            "source": "lysa.akin@enron.com",
+            "target": "paul.kaufman@enron.com"
+        },
+        {
+            "source": "lysa.akin@enron.com",
+            "target": "leslie.lawner@enron.com"
+        },
+        {
+            "source": "lysa.akin@enron.com",
+            "target": "phillip.allen@enron.com"
+        },
+        {
+            "source": "lysa.akin@enron.com",
+            "target": "robert.badeer@enron.com"
+        },
+        {
+            "source": "lysa.akin@enron.com",
+            "target": "joseph.alamo@enron.com"
+        },
+        {
+            "source": "susan.mara@enron.com",
+            "target": "ginger.dernehl@enron.com"
+        },
+        {
+            "source": "susan.mara@enron.com",
+            "target": "jeff.dasovich@enron.com"
+        },
+        {
+            "source": "susan.mara@enron.com",
+            "target": "mona.petrochko@enron.com"
+        },
+        {
+            "source": "susan.mara@enron.com",
+            "target": "alan.comnes@enron.com"
+        },
+        {
+            "source": "susan.mara@enron.com",
+            "target": "harry.kingerski@enron.com"
+        },
+        {
+            "source": "susan.mara@enron.com",
+            "target": "karen.denne@enron.com"
+        },
+        {
+            "source": "susan.mara@enron.com",
+            "target": "steven.kean@enron.com"
+        },
+        {
+            "source": "susan.mara@enron.com",
+            "target": "tim.belden@enron.com"
+        },
+        {
+            "source": "susan.mara@enron.com",
+            "target": "joseph.alamo@enron.com"
+        },
+        {
+            "source": "susan.mara@enron.com",
+            "target": "james.steffes@enron.com"
+        },
+        {
+            "source": "susan.mara@enron.com",
+            "target": "christi.nicolay@enron.com"
+        },
+        {
+            "source": "susan.mara@enron.com",
+            "target": "paul.kaufman@enron.com"
+        },
+        {
+            "source": "susan.mara@enron.com",
+            "target": "mday@gmssr.com"
+        },
+        {
+            "source": "susan.mara@enron.com",
+            "target": "leslie.lawner@enron.com"
+        },
+        {
+            "source": "susan.mara@enron.com",
+            "target": "vicki.sharp@enron.com"
+        },
+        {
+            "source": "susan.mara@enron.com",
+            "target": "richard.shapiro@enron.com"
+        },
+        {
+            "source": "susan.mara@enron.com",
+            "target": "robert.badeer@enron.com"
+        },
+        {
+            "source": "susan.mara@enron.com",
+            "target": "d..steffes@enron.com"
+        },
+        {
+            "source": "susan.mara@enron.com",
+            "target": "lisa.mellencamp@enron.com"
+        },
+        {
+            "source": "susan.mara@enron.com",
+            "target": "mike.smith@enron.com"
+        },
+        {
+            "source": "susan.mara@enron.com",
+            "target": "jennifer.thome@enron.com"
+        },
+        {
+            "source": "susan.mara@enron.com",
+            "target": "k..allen@enron.com"
+        },
+        {
+            "source": "tim.belden@enron.com",
+            "target": "phillip.allen@enron.com"
+        },
+        {
+            "source": "tim.belden@enron.com",
+            "target": "robert.badeer@enron.com"
+        },
+        {
+            "source": "tim.belden@enron.com",
+            "target": "jeff.dasovich@enron.com"
+        },
+        {
+            "source": "tim.belden@enron.com",
+            "target": "sally.beck@enron.com"
+        },
+        {
+            "source": "tim.belden@enron.com",
+            "target": "alan.comnes@enron.com"
+        },
+        {
+            "source": "tim.belden@enron.com",
+            "target": "sean.crandall@enron.com"
+        },
+        {
+            "source": "tim.belden@enron.com",
+            "target": "paul.kaufman@enron.com"
+        },
+        {
+            "source": "tim.belden@enron.com",
+            "target": "w..delainey@enron.com"
+        },
+        {
+            "source": "tim.belden@enron.com",
+            "target": "janette.elbertson@enron.com"
+        },
+        {
+            "source": "tim.belden@enron.com",
+            "target": "louise.kitchen@enron.com"
+        },
+        {
+            "source": "tim.belden@enron.com",
+            "target": "steven.kean@enron.com"
+        },
+        {
+            "source": "tim.belden@enron.com",
+            "target": "rick.buy@enron.com"
+        },
+        {
+            "source": "tim.belden@enron.com",
+            "target": "e..haedicke@enron.com"
+        },
+        {
+            "source": "tim.belden@enron.com",
+            "target": "mark.guzman@enron.com"
+        },
+        {
+            "source": "tim.belden@enron.com",
+            "target": "david.delainey@enron.com"
+        },
+        {
+            "source": "tim.belden@enron.com",
+            "target": "mark.haedicke@enron.com"
+        },
+        {
+            "source": "tim.belden@enron.com",
+            "target": "karen.denne@enron.com"
+        },
+        {
+            "source": "tim.belden@enron.com",
+            "target": "david.oxley@enron.com"
+        },
+        {
+            "source": "tim.belden@enron.com",
+            "target": "james.steffes@enron.com"
+        },
+        {
+            "source": "tim.belden@enron.com",
+            "target": "k..allen@enron.com"
+        },
+        {
+            "source": "exchange.administrator@enron.com",
+            "target": "harry.arora@enron.com"
+        },
+        {
+            "source": "exchange.administrator@enron.com",
+            "target": "don.baughman@enron.com"
+        },
+        {
+            "source": "exchange.administrator@enron.com",
+            "target": "sally.beck@enron.com"
+        },
+        {
+            "source": "exchange.administrator@enron.com",
+            "target": "f..campbell@enron.com"
+        },
+        {
+            "source": "exchange.administrator@enron.com",
+            "target": "monika.causholli@enron.com"
+        },
+        {
+            "source": "exchange.administrator@enron.com",
+            "target": "scorman@enron.com"
+        },
+        {
+            "source": "exchange.administrator@enron.com",
+            "target": "jeff.dasovich@enron.com"
+        },
+        {
+            "source": "exchange.administrator@enron.com",
+            "target": "chris.dorland@enron.com"
+        },
+        {
+            "source": "exchange.administrator@enron.com",
+            "target": "tracy.geaccone@enron.com"
+        },
+        {
+            "source": "exchange.administrator@enron.com",
+            "target": "mark.e.haedicke@enron.com"
+        },
+        {
+            "source": "exchange.administrator@enron.com",
+            "target": "rod.hayslett@enron.com"
+        },
+        {
+            "source": "exchange.administrator@enron.com",
+            "target": "keith.holst@enron.com"
+        },
+        {
+            "source": "exchange.administrator@enron.com",
+            "target": "kevin.hyatt@enron.com"
+        },
+        {
+            "source": "chris.dorland@enron.com",
+            "target": "don.baughman@enron.com"
+        },
+        {
+            "source": "chris.dorland@enron.com",
+            "target": "keith.holst@enron.com"
+        },
+        {
+            "source": "chris.dorland@enron.com",
+            "target": "robert.benson@enron.com"
+        },
+        {
+            "source": "chris.dorland@enron.com",
+            "target": "mike.carson@enron.com"
+        },
+        {
+            "source": "chris.dorland@enron.com",
+            "target": "john.lavorato@enron.com"
+        },
+        {
+            "source": "chris.dorland@enron.com",
+            "target": "perfmgmt@enron.com"
+        },
+        {
+            "source": "chris.dorland@enron.com",
+            "target": "lloyd.will@enron.com"
+        },
+        {
+            "source": "chris.dorland@enron.com",
+            "target": "david.oxley@enron.com"
+        },
+        {
+            "source": "chris.dorland@enron.com",
+            "target": "stephanie.sever@enron.com"
+        },
+        {
+            "source": "chris.dorland@enron.com",
+            "target": "martin.cuilla@enron.com"
+        },
+        {
+            "source": "chris.dorland@enron.com",
+            "target": "ina.rangel@enron.com"
+        },
+        {
+            "source": "chris.dorland@enron.com",
+            "target": "jae.black@enron.com"
+        },
+        {
+            "source": "stacy.dickson@enron.com",
+            "target": "jeffrey.hodge@enron.com"
+        },
+        {
+            "source": "stacy.dickson@enron.com",
+            "target": "mark.greenberg@enron.com"
+        },
+        {
+            "source": "stacy.dickson@enron.com",
+            "target": "dan.hyvl@enron.com"
+        },
+        {
+            "source": "stacy.dickson@enron.com",
+            "target": "ed.mcmichael@enron.com"
+        },
+        {
+            "source": "stacy.dickson@enron.com",
+            "target": "mark.haedicke@enron.com"
+        },
+        {
+            "source": "stephanie.panus@enron.com",
+            "target": "susan.bailey@enron.com"
+        },
+        {
+            "source": "stephanie.panus@enron.com",
+            "target": "harry.arora@enron.com"
+        },
+        {
+            "source": "stephanie.panus@enron.com",
+            "target": "alan.aronowitz@enron.com"
+        },
+        {
+            "source": "stephanie.panus@enron.com",
+            "target": "mary.cook@enron.com"
+        },
+        {
+            "source": "stephanie.panus@enron.com",
+            "target": "carol.clair@enron.com"
+        },
+        {
+            "source": "stephanie.panus@enron.com",
+            "target": "mark.taylor@enron.com"
+        },
+        {
+            "source": "stephanie.panus@enron.com",
+            "target": "mark.greenberg@enron.com"
+        },
+        {
+            "source": "mona.petrochko@enron.com",
+            "target": "mona.petrochko@enron.com"
+        },
+        {
+            "source": "mona.petrochko@enron.com",
+            "target": "joseph.alamo@enron.com"
+        },
+        {
+            "source": "mona.petrochko@enron.com",
+            "target": "jeff.dasovich@enron.com"
+        },
+        {
+            "source": "mona.petrochko@enron.com",
+            "target": "harry.kingerski@enron.com"
+        },
+        {
+            "source": "mona.petrochko@enron.com",
+            "target": "jdasovic@enron.com"
+        },
+        {
+            "source": "mona.petrochko@enron.com",
+            "target": "james.steffes@enron.com"
+        },
+        {
+            "source": "mona.petrochko@enron.com",
+            "target": "robert.badeer@enron.com"
+        },
+        {
+            "source": "mona.petrochko@enron.com",
+            "target": "alan.comnes@enron.com"
+        },
+        {
+            "source": "kevin.hyatt@enron.com",
+            "target": "drew.fossum@enron.com"
+        },
+        {
+            "source": "kevin.hyatt@enron.com",
+            "target": "larry.campbell@enron.com"
+        },
+        {
+            "source": "kevin.hyatt@enron.com",
+            "target": "shelley.corman@enron.com"
+        },
+        {
+            "source": "kevin.hyatt@enron.com",
+            "target": "lindy.donoho@enron.com"
+        },
+        {
+            "source": "kevin.hyatt@enron.com",
+            "target": "tracy.geaccone@enron.com"
+        },
+        {
+            "source": "kevin.hyatt@enron.com",
+            "target": "chris.germany@enron.com"
+        },
+        {
+            "source": "kevin.hyatt@enron.com",
+            "target": "john.buchanan@enron.com"
+        },
+        {
+            "source": "kevin.hyatt@enron.com",
+            "target": "a..howard@enron.com"
+        },
+        {
+            "source": "kevin.hyatt@enron.com",
+            "target": "stanley.horton@enron.com"
+        },
+        {
+            "source": "kevin.hyatt@enron.com",
+            "target": "jeff.dasovich@enron.com"
+        },
+        {
+            "source": "kevin.hyatt@enron.com",
+            "target": "jeffery.fawcett@enron.com"
+        },
+        {
+            "source": "frank.ermis@enron.com",
+            "target": "frank.ermis@enron.com"
+        },
+        {
+            "source": "frank.ermis@enron.com",
+            "target": "stephanie.sever@enron.com"
+        },
+        {
+            "source": "frank.ermis@enron.com",
+            "target": "perfmgmt@enron.com"
+        },
+        {
+            "source": "frank.ermis@enron.com",
+            "target": "ina.rangel@enron.com"
+        },
+        {
+            "source": "frank.ermis@enron.com",
+            "target": "k..allen@enron.com"
+        },
+        {
+            "source": "frank.ermis@enron.com",
+            "target": "randall.gay@enron.com"
+        },
+        {
+            "source": "frank.ermis@enron.com",
+            "target": "phillip.allen@enron.com"
+        },
+        {
+            "source": "lisa.mellencamp@enron.com",
+            "target": "susan.bailey@enron.com"
+        },
+        {
+            "source": "lisa.mellencamp@enron.com",
+            "target": "rick.buy@enron.com"
+        },
+        {
+            "source": "lisa.mellencamp@enron.com",
+            "target": "jeff.dasovich@enron.com"
+        },
+        {
+            "source": "lisa.mellencamp@enron.com",
+            "target": "d..steffes@enron.com"
+        },
+        {
+            "source": "lisa.mellencamp@enron.com",
+            "target": "mark.haedicke@enron.com"
+        },
+        {
+            "source": "lisa.mellencamp@enron.com",
+            "target": "drew.fossum@enron.com"
+        },
+        {
+            "source": "lisa.mellencamp@enron.com",
+            "target": "e..haedicke@enron.com"
+        },
+        {
+            "source": "lisa.mellencamp@enron.com",
+            "target": "james.derrick@enron.com"
+        },
+        {
+            "source": "lisa.mellencamp@enron.com",
+            "target": "t..hodge@enron.com"
+        },
+        {
+            "source": "lisa.mellencamp@enron.com",
+            "target": "dan.hyvl@enron.com"
+        },
+        {
+            "source": "lisa.mellencamp@enron.com",
+            "target": "mary.cook@enron.com"
+        },
+        {
+            "source": "lisa.mellencamp@enron.com",
+            "target": "michelle.cash@enron.com"
+        },
+        {
+            "source": "lisa.mellencamp@enron.com",
+            "target": "vicki.sharp@enron.com"
+        },
+        {
+            "source": "mary.fischer@enron.com",
+            "target": "mary.fischer@enron.com"
+        },
+        {
+            "source": "scott.neal@enron.com",
+            "target": "f..brawner@enron.com"
+        },
+        {
+            "source": "scott.neal@enron.com",
+            "target": "chris.germany@enron.com"
+        },
+        {
+            "source": "scott.neal@enron.com",
+            "target": "john.hodge@enron.com"
+        },
+        {
+            "source": "scott.neal@enron.com",
+            "target": "t..hodge@enron.com"
+        },
+        {
+            "source": "scott.neal@enron.com",
+            "target": "scott.hendrickson@enron.com"
+        },
+        {
+            "source": "scott.neal@enron.com",
+            "target": "david.delainey@enron.com"
+        },
+        {
+            "source": "scott.neal@enron.com",
+            "target": "sandra.brawner@enron.com"
+        },
+        {
+            "source": "scott.neal@enron.com",
+            "target": "k..allen@enron.com"
+        },
+        {
+            "source": "harry.kingerski@enron.com",
+            "target": "james.steffes@enron.com"
+        },
+        {
+            "source": "harry.kingerski@enron.com",
+            "target": "jeff.dasovich@enron.com"
+        },
+        {
+            "source": "harry.kingerski@enron.com",
+            "target": "harry.kingerski@enron.com"
+        },
+        {
+            "source": "harry.kingerski@enron.com",
+            "target": "richard.shapiro@enron.com"
+        },
+        {
+            "source": "harry.kingerski@enron.com",
+            "target": "leslie.lawner@enron.com"
+        },
+        {
+            "source": "harry.kingerski@enron.com",
+            "target": "alan.comnes@enron.com"
+        },
+        {
+            "source": "harry.kingerski@enron.com",
+            "target": "steven.kean@enron.com"
+        },
+        {
+            "source": "harry.kingerski@enron.com",
+            "target": "d..steffes@enron.com"
+        },
+        {
+            "source": "harry.kingerski@enron.com",
+            "target": "jennifer.thome@enron.com"
+        },
+        {
+            "source": "harry.kingerski@enron.com",
+            "target": "drew.fossum@enron.com"
+        },
+        {
+            "source": "harry.kingerski@enron.com",
+            "target": "mike.smith@enron.com"
+        },
+        {
+            "source": "harry.kingerski@enron.com",
+            "target": "mday@gmssr.com"
+        },
+        {
+            "source": "leslie.hansen@enron.com",
+            "target": "michelle.cash@enron.com"
+        },
+        {
+            "source": "leslie.hansen@enron.com",
+            "target": "doug.gilbert-smith@enron.com"
+        },
+        {
+            "source": "leslie.hansen@enron.com",
+            "target": "mark.haedicke@enron.com"
+        },
+        {
+            "source": "leslie.hansen@enron.com",
+            "target": "t..hodge@enron.com"
+        },
+        {
+            "source": "leslie.hansen@enron.com",
+            "target": "dan.hyvl@enron.com"
+        },
+        {
+            "source": "leslie.hansen@enron.com",
+            "target": "stephanie.sever@enron.com"
+        },
+        {
+            "source": "leslie.hansen@enron.com",
+            "target": "mark.greenberg@enron.com"
+        },
+        {
+            "source": "leslie.hansen@enron.com",
+            "target": "carol.clair@enron.com"
+        },
+        {
+            "source": "robert.badeer@enron.com",
+            "target": "jeff.dasovich@enron.com"
+        },
+        {
+            "source": "robert.badeer@enron.com",
+            "target": "ina.rangel@enron.com"
+        },
+        {
+            "source": "robert.badeer@enron.com",
+            "target": "phillip.allen@enron.com"
+        },
+        {
+            "source": "janette.elbertson@enron.com",
+            "target": "alan.aronowitz@enron.com"
+        },
+        {
+            "source": "janette.elbertson@enron.com",
+            "target": "james.derrick@enron.com"
+        },
+        {
+            "source": "janette.elbertson@enron.com",
+            "target": "david.delainey@enron.com"
+        },
+        {
+            "source": "janette.elbertson@enron.com",
+            "target": "john.lavorato@enron.com"
+        },
+        {
+            "source": "janette.elbertson@enron.com",
+            "target": "janette.elbertson@enron.com"
+        },
+        {
+            "source": "janette.elbertson@enron.com",
+            "target": "mark.haedicke@enron.com"
+        },
+        {
+            "source": "janette.elbertson@enron.com",
+            "target": "greg.piper@enron.com"
+        },
+        {
+            "source": "janette.elbertson@enron.com",
+            "target": "raymond.bowen@enron.com"
+        },
+        {
+            "source": "janette.elbertson@enron.com",
+            "target": "michelle.cash@enron.com"
+        },
+        {
+            "source": "janette.elbertson@enron.com",
+            "target": "mark.e.haedicke@enron.com"
+        },
+        {
+            "source": "janette.elbertson@enron.com",
+            "target": "e..haedicke@enron.com"
+        },
+        {
+            "source": "janette.elbertson@enron.com",
+            "target": "t..hodge@enron.com"
+        },
+        {
+            "source": "janette.elbertson@enron.com",
+            "target": "susan.bailey@enron.com"
+        },
+        {
+            "source": "janette.elbertson@enron.com",
+            "target": "peter.keohane@enron.com"
+        },
+        {
+            "source": "janette.elbertson@enron.com",
+            "target": "jeffrey.hodge@enron.com"
+        },
+        {
+            "source": "janette.elbertson@enron.com",
+            "target": "dan.hyvl@enron.com"
+        },
+        {
+            "source": "perfmgmt@enron.com",
+            "target": "pallen@enron.com"
+        },
+        {
+            "source": "perfmgmt@enron.com",
+            "target": "ebass@enron.com"
+        },
+        {
+            "source": "perfmgmt@enron.com",
+            "target": "don.baughman@enron.com"
+        },
+        {
+            "source": "perfmgmt@enron.com",
+            "target": "sally.beck@enron.com"
+        },
+        {
+            "source": "perfmgmt@enron.com",
+            "target": "robert.benson@enron.com"
+        },
+        {
+            "source": "perfmgmt@enron.com",
+            "target": "f..brawner@enron.com"
+        },
+        {
+            "source": "perfmgmt@enron.com",
+            "target": "michelle.cash@enron.com"
+        },
+        {
+            "source": "perfmgmt@enron.com",
+            "target": "sean.crandall@enron.com"
+        },
+        {
+            "source": "perfmgmt@enron.com",
+            "target": "jeff.dasovich@enron.com"
+        },
+        {
+            "source": "perfmgmt@enron.com",
+            "target": "dana.davis@enron.com"
+        },
+        {
+            "source": "perfmgmt@enron.com",
+            "target": "clint.dean@enron.com"
+        },
+        {
+            "source": "perfmgmt@enron.com",
+            "target": "tom.donohoe@enron.com"
+        },
+        {
+            "source": "perfmgmt@enron.com",
+            "target": "chris.germany@enron.com"
+        },
+        {
+            "source": "perfmgmt@enron.com",
+            "target": "doug.gilbert-smith@enron.com"
+        },
+        {
+            "source": "perfmgmt@enron.com",
+            "target": "john.griffith@enron.com"
+        },
+        {
+            "source": "perfmgmt@enron.com",
+            "target": "mark.guzman@enron.com"
+        },
+        {
+            "source": "perfmgmt@enron.com",
+            "target": "mark.e.haedicke@enron.com"
+        },
+        {
+            "source": "perfmgmt@enron.com",
+            "target": "rod.hayslett@enron.com"
+        },
+        {
+            "source": "perfmgmt@enron.com",
+            "target": "scott.hendrickson@enron.com"
+        },
+        {
+            "source": "perfmgmt@enron.com",
+            "target": "juan.hernandez@enron.com"
+        },
+        {
+            "source": "perfmgmt@enron.com",
+            "target": "john.hodge@enron.com"
+        },
+        {
+            "source": "perfmgmt@enron.com",
+            "target": "larry.campbell@enron.com"
+        },
+        {
+            "source": "christi.nicolay@enron.com",
+            "target": "phillip.allen@enron.com"
+        },
+        {
+            "source": "christi.nicolay@enron.com",
+            "target": "paul.kaufman@enron.com"
+        },
+        {
+            "source": "christi.nicolay@enron.com",
+            "target": "jennifer.thome@enron.com"
+        },
+        {
+            "source": "christi.nicolay@enron.com",
+            "target": "alan.comnes@enron.com"
+        },
+        {
+            "source": "christi.nicolay@enron.com",
+            "target": "jeffrey.hodge@enron.com"
+        },
+        {
+            "source": "christi.nicolay@enron.com",
+            "target": "james.steffes@enron.com"
+        },
+        {
+            "source": "christi.nicolay@enron.com",
+            "target": "richard.shapiro@enron.com"
+        },
+        {
+            "source": "christi.nicolay@enron.com",
+            "target": "lloyd.will@enron.com"
+        },
+        {
+            "source": "christi.nicolay@enron.com",
+            "target": "david.delainey@enron.com"
+        },
+        {
+            "source": "christi.nicolay@enron.com",
+            "target": "jeff.dasovich@enron.com"
+        },
+        {
+            "source": "christi.nicolay@enron.com",
+            "target": "mark.haedicke@enron.com"
+        },
+        {
+            "source": "david.baumbach@enron.com",
+            "target": "eric.bass@enron.com"
+        },
+        {
+            "source": "david.baumbach@enron.com",
+            "target": "brenda.herod@enron.com"
+        },
+        {
+            "source": "david.baumbach@enron.com",
+            "target": "daren.farmer@enron.com"
+        },
+        {
+            "source": "david.baumbach@enron.com",
+            "target": "darron.giron@enron.com"
+        },
+        {
+            "source": "david.baumbach@enron.com",
+            "target": "michelle.cash@enron.com"
+        },
+        {
+            "source": "david.baumbach@enron.com",
+            "target": "dan.hyvl@enron.com"
+        },
+        {
+            "source": "david.baumbach@enron.com",
+            "target": "sally.beck@enron.com"
+        },
+        {
+            "source": "martin.cuilla@enron.com",
+            "target": "martin.cuilla@enron.com"
+        },
+        {
+            "source": "martin.cuilla@enron.com",
+            "target": "eric.bass@enron.com"
+        },
+        {
+            "source": "martin.cuilla@enron.com",
+            "target": "chris.germany@enron.com"
+        },
+        {
+            "source": "martin.cuilla@enron.com",
+            "target": "john.griffith@enron.com"
+        },
+        {
+            "source": "john.buchanan@enron.com",
+            "target": "john.buchanan@enron.com"
+        },
+        {
+            "source": "john.buchanan@enron.com",
+            "target": "shelley.corman@enron.com"
+        },
+        {
+            "source": "john.buchanan@enron.com",
+            "target": "lindy.donoho@enron.com"
+        },
+        {
+            "source": "john.buchanan@enron.com",
+            "target": "stanley.horton@enron.com"
+        },
+        {
+            "source": "jennifer.thome@enron.com",
+            "target": "jeff.dasovich@enron.com"
+        },
+        {
+            "source": "jennifer.thome@enron.com",
+            "target": "james.steffes@enron.com"
+        },
+        {
+            "source": "jennifer.thome@enron.com",
+            "target": "leslie.lawner@enron.com"
+        },
+        {
+            "source": "jennifer.thome@enron.com",
+            "target": "richard.shapiro@enron.com"
+        },
+        {
+            "source": "jennifer.thome@enron.com",
+            "target": "d..steffes@enron.com"
+        },
+        {
+            "source": "jennifer.thome@enron.com",
+            "target": "lisa.gang@enron.com"
+        },
+        {
+            "source": "jennifer.thome@enron.com",
+            "target": "karen.denne@enron.com"
+        },
+        {
+            "source": "jennifer.thome@enron.com",
+            "target": "alan.comnes@enron.com"
+        },
+        {
+            "source": "eric.bass@enron.com",
+            "target": "brenda.herod@enron.com"
+        },
+        {
+            "source": "eric.bass@enron.com",
+            "target": "dan.hyvl@enron.com"
+        },
+        {
+            "source": "eric.bass@enron.com",
+            "target": "ina.rangel@enron.com"
+        },
+        {
+            "source": "eric.bass@enron.com",
+            "target": "eric.bass@enron.com"
+        },
+        {
+            "source": "eric.bass@enron.com",
+            "target": "stephanie.sever@enron.com"
+        },
+        {
+            "source": "eric.bass@enron.com",
+            "target": "ed.mcmichael@enron.com"
+        },
+        {
+            "source": "louise.kitchen@enron.com",
+            "target": "k..allen@enron.com"
+        },
+        {
+            "source": "louise.kitchen@enron.com",
+            "target": "sally.beck@enron.com"
+        },
+        {
+            "source": "louise.kitchen@enron.com",
+            "target": "greg.piper@enron.com"
+        },
+        {
+            "source": "louise.kitchen@enron.com",
+            "target": "john.lavorato@enron.com"
+        },
+        {
+            "source": "louise.kitchen@enron.com",
+            "target": "louise.kitchen@enron.com"
+        },
+        {
+            "source": "louise.kitchen@enron.com",
+            "target": "rick.buy@enron.com"
+        },
+        {
+            "source": "louise.kitchen@enron.com",
+            "target": "david.oxley@enron.com"
+        },
+        {
+            "source": "louise.kitchen@enron.com",
+            "target": "mark.haedicke@enron.com"
+        },
+        {
+            "source": "louise.kitchen@enron.com",
+            "target": "e..haedicke@enron.com"
+        },
+        {
+            "source": "louise.kitchen@enron.com",
+            "target": "michelle.cash@enron.com"
+        },
+        {
+            "source": "louise.kitchen@enron.com",
+            "target": "brian.redmond@enron.com"
+        },
+        {
+            "source": "louise.kitchen@enron.com",
+            "target": "f..brawner@enron.com"
+        },
+        {
+            "source": "louise.kitchen@enron.com",
+            "target": "david.delainey@enron.com"
+        },
+        {
+            "source": "louise.kitchen@enron.com",
+            "target": "doug.gilbert-smith@enron.com"
+        },
+        {
+            "source": "louise.kitchen@enron.com",
+            "target": "vince.kaminski@enron.com"
+        },
+        {
+            "source": "louise.kitchen@enron.com",
+            "target": "sandra.brawner@enron.com"
+        },
+        {
+            "source": "w..delainey@enron.com",
+            "target": "sally.beck@enron.com"
+        },
+        {
+            "source": "w..delainey@enron.com",
+            "target": "rick.buy@enron.com"
+        },
+        {
+            "source": "w..delainey@enron.com",
+            "target": "raymond.bowen@enron.com"
+        },
+        {
+            "source": "w..delainey@enron.com",
+            "target": "vicki.sharp@enron.com"
+        },
+        {
+            "source": "w..delainey@enron.com",
+            "target": "john.lavorato@enron.com"
+        },
+        {
+            "source": "chris.germany@enron.com",
+            "target": "tom.donohoe@enron.com"
+        },
+        {
+            "source": "chris.germany@enron.com",
+            "target": "victor.lamadrid@enron.com"
+        },
+        {
+            "source": "chris.germany@enron.com",
+            "target": "scott.hendrickson@enron.com"
+        },
+        {
+            "source": "chris.germany@enron.com",
+            "target": "chris.germany@enron.com"
+        },
+        {
+            "source": "chris.germany@enron.com",
+            "target": "stephanie.sever@enron.com"
+        },
+        {
+            "source": "chris.germany@enron.com",
+            "target": "john.hodge@enron.com"
+        },
+        {
+            "source": "chris.germany@enron.com",
+            "target": "jeffrey.hodge@enron.com"
+        },
+        {
+            "source": "chris.germany@enron.com",
+            "target": "robert.superty@enron.com"
+        },
+        {
+            "source": "chris.germany@enron.com",
+            "target": "ruth.concannon@enron.com"
+        },
+        {
+            "source": "chris.germany@enron.com",
+            "target": "daren.farmer@enron.com"
+        },
+        {
+            "source": "chris.germany@enron.com",
+            "target": "ed.mcmichael@enron.com"
+        },
+        {
+            "source": "chris.germany@enron.com",
+            "target": "beth.apollo@enron.com"
+        },
+        {
+            "source": "chris.germany@enron.com",
+            "target": "randall.gay@enron.com"
+        },
+        {
+            "source": "drew.fossum@enron.com",
+            "target": "stanley.horton@enron.com"
+        },
+        {
+            "source": "drew.fossum@enron.com",
+            "target": "drew.fossum@enron.com"
+        },
+        {
+            "source": "drew.fossum@enron.com",
+            "target": "shelley.corman@enron.com"
+        },
+        {
+            "source": "drew.fossum@enron.com",
+            "target": "jeffery.fawcett@enron.com"
+        },
+        {
+            "source": "drew.fossum@enron.com",
+            "target": "mark.greenberg@enron.com"
+        },
+        {
+            "source": "drew.fossum@enron.com",
+            "target": "leslie.lawner@enron.com"
+        },
+        {
+            "source": "drew.fossum@enron.com",
+            "target": "cindy.stark@enron.com"
+        },
+        {
+            "source": "drew.fossum@enron.com",
+            "target": "lindy.donoho@enron.com"
+        },
+        {
+            "source": "drew.fossum@enron.com",
+            "target": "rod.hayslett@enron.com"
+        },
+        {
+            "source": "drew.fossum@enron.com",
+            "target": "jeff.dasovich@enron.com"
+        },
+        {
+            "source": "drew.fossum@enron.com",
+            "target": "e..haedicke@enron.com"
+        },
+        {
+            "source": "drew.fossum@enron.com",
+            "target": "a..howard@enron.com"
+        },
+        {
+            "source": "drew.fossum@enron.com",
+            "target": "james.derrick@enron.com"
+        },
+        {
+            "source": "drew.fossum@enron.com",
+            "target": "tracy.geaccone@enron.com"
+        },
+        {
+            "source": "jae.black@enron.com",
+            "target": "harry.arora@enron.com"
+        },
+        {
+            "source": "jae.black@enron.com",
+            "target": "don.baughman@enron.com"
+        },
+        {
+            "source": "jae.black@enron.com",
+            "target": "lloyd.will@enron.com"
+        },
+        {
+            "source": "jae.black@enron.com",
+            "target": "juan.hernandez@enron.com"
+        },
+        {
+            "source": "jae.black@enron.com",
+            "target": "mike.carson@enron.com"
+        },
+        {
+            "source": "jae.black@enron.com",
+            "target": "doug.gilbert-smith@enron.com"
+        },
+        {
+            "source": "paul.kaufman@enron.com",
+            "target": "phillip.allen@enron.com"
+        },
+        {
+            "source": "paul.kaufman@enron.com",
+            "target": "jeff.dasovich@enron.com"
+        },
+        {
+            "source": "paul.kaufman@enron.com",
+            "target": "richard.shapiro@enron.com"
+        },
+        {
+            "source": "paul.kaufman@enron.com",
+            "target": "karen.denne@enron.com"
+        },
+        {
+            "source": "paul.kaufman@enron.com",
+            "target": "alan.comnes@enron.com"
+        },
+        {
+            "source": "paul.kaufman@enron.com",
+            "target": "james.steffes@enron.com"
+        },
+        {
+            "source": "paul.kaufman@enron.com",
+            "target": "mday@gmssr.com"
+        },
+        {
+            "source": "paul.kaufman@enron.com",
+            "target": "joseph.alamo@enron.com"
+        },
+        {
+            "source": "paul.kaufman@enron.com",
+            "target": "steven.kean@enron.com"
+        },
+        {
+            "source": "paul.kaufman@enron.com",
+            "target": "ginger.dernehl@enron.com"
+        },
+        {
+            "source": "paul.kaufman@enron.com",
+            "target": "d..steffes@enron.com"
+        },
+        {
+            "source": "paul.kaufman@enron.com",
+            "target": "leslie.lawner@enron.com"
+        },
+        {
+            "source": "victor.lamadrid@enron.com",
+            "target": "robert.superty@enron.com"
+        },
+        {
+            "source": "victor.lamadrid@enron.com",
+            "target": "daren.farmer@enron.com"
+        },
+        {
+            "source": "victor.lamadrid@enron.com",
+            "target": "john.hodge@enron.com"
+        },
+        {
+            "source": "victor.lamadrid@enron.com",
+            "target": "darron.giron@enron.com"
+        },
+        {
+            "source": "victor.lamadrid@enron.com",
+            "target": "randall.gay@enron.com"
+        },
+        {
+            "source": "ginger.dernehl@enron.com",
+            "target": "jeff.dasovich@enron.com"
+        },
+        {
+            "source": "ginger.dernehl@enron.com",
+            "target": "alan.comnes@enron.com"
+        },
+        {
+            "source": "ginger.dernehl@enron.com",
+            "target": "james.steffes@enron.com"
+        },
+        {
+            "source": "ginger.dernehl@enron.com",
+            "target": "mike.smith@enron.com"
+        },
+        {
+            "source": "ginger.dernehl@enron.com",
+            "target": "richard.shapiro@enron.com"
+        },
+        {
+            "source": "ginger.dernehl@enron.com",
+            "target": "steven.kean@enron.com"
+        },
+        {
+            "source": "ginger.dernehl@enron.com",
+            "target": "joseph.alamo@enron.com"
+        },
+        {
+            "source": "ginger.dernehl@enron.com",
+            "target": "d..steffes@enron.com"
+        },
+        {
+            "source": "ginger.dernehl@enron.com",
+            "target": "ginger.dernehl@enron.com"
+        },
+        {
+            "source": "ginger.dernehl@enron.com",
+            "target": "vicki.sharp@enron.com"
+        },
+        {
+            "source": "d..steffes@enron.com",
+            "target": "shelley.corman@enron.com"
+        },
+        {
+            "source": "d..steffes@enron.com",
+            "target": "d..steffes@enron.com"
+        },
+        {
+            "source": "d..steffes@enron.com",
+            "target": "jeff.dasovich@enron.com"
+        },
+        {
+            "source": "d..steffes@enron.com",
+            "target": "alan.comnes@enron.com"
+        },
+        {
+            "source": "d..steffes@enron.com",
+            "target": "mike.smith@enron.com"
+        },
+        {
+            "source": "d..steffes@enron.com",
+            "target": "doug.gilbert-smith@enron.com"
+        },
+        {
+            "source": "d..steffes@enron.com",
+            "target": "sean.crandall@enron.com"
+        },
+        {
+            "source": "d..steffes@enron.com",
+            "target": "mday@gmssr.com"
+        },
+        {
+            "source": "richard.shapiro@enron.com",
+            "target": "leslie.lawner@enron.com"
+        },
+        {
+            "source": "richard.shapiro@enron.com",
+            "target": "jeff.dasovich@enron.com"
+        },
+        {
+            "source": "richard.shapiro@enron.com",
+            "target": "james.steffes@enron.com"
+        },
+        {
+            "source": "richard.shapiro@enron.com",
+            "target": "steven.kean@enron.com"
+        },
+        {
+            "source": "richard.shapiro@enron.com",
+            "target": "karen.denne@enron.com"
+        },
+        {
+            "source": "richard.shapiro@enron.com",
+            "target": "joseph.alamo@enron.com"
+        },
+        {
+            "source": "richard.shapiro@enron.com",
+            "target": "alan.comnes@enron.com"
+        },
+        {
+            "source": "richard.shapiro@enron.com",
+            "target": "mark.haedicke@enron.com"
+        },
+        {
+            "source": "richard.shapiro@enron.com",
+            "target": "david.delainey@enron.com"
+        },
+        {
+            "source": "robert.superty@enron.com",
+            "target": "hector.mcloughlin@enron.com"
+        },
+        {
+            "source": "robert.superty@enron.com",
+            "target": "sally.beck@enron.com"
+        },
+        {
+            "source": "robert.superty@enron.com",
+            "target": "randall.gay@enron.com"
+        },
+        {
+            "source": "robert.superty@enron.com",
+            "target": "robert.superty@enron.com"
+        },
+        {
+            "source": "robert.superty@enron.com",
+            "target": "t..hodge@enron.com"
+        },
+        {
+            "source": "robert.superty@enron.com",
+            "target": "shelley.corman@enron.com"
+        },
+        {
+            "source": "robert.superty@enron.com",
+            "target": "patti.thompson@enron.com"
+        },
+        {
+            "source": "robert.superty@enron.com",
+            "target": "daren.farmer@enron.com"
+        },
+        {
+            "source": "robert.superty@enron.com",
+            "target": "phillip.allen@enron.com"
+        },
+        {
+            "source": "scorman@enron.com",
+            "target": "no.address@enron.com"
+        },
+        {
+            "source": "steven.kean@enron.com",
+            "target": "jeff.dasovich@enron.com"
+        },
+        {
+            "source": "steven.kean@enron.com",
+            "target": "karen.denne@enron.com"
+        },
+        {
+            "source": "steven.kean@enron.com",
+            "target": "steven.kean@enron.com"
+        },
+        {
+            "source": "steven.kean@enron.com",
+            "target": "james.steffes@enron.com"
+        },
+        {
+            "source": "steven.kean@enron.com",
+            "target": "james.derrick@enron.com"
+        },
+        {
+            "source": "steven.kean@enron.com",
+            "target": "stanley.horton@enron.com"
+        },
+        {
+            "source": "steven.kean@enron.com",
+            "target": "shelley.corman@enron.com"
+        },
+        {
+            "source": "steven.kean@enron.com",
+            "target": "david.delainey@enron.com"
+        },
+        {
+            "source": "steven.kean@enron.com",
+            "target": "mike.smith@enron.com"
+        },
+        {
+            "source": "steven.kean@enron.com",
+            "target": "mark.haedicke@enron.com"
+        },
+        {
+            "source": "steven.kean@enron.com",
+            "target": "vince.kaminski@enron.com"
+        },
+        {
+            "source": "steven.kean@enron.com",
+            "target": "sally.beck@enron.com"
+        },
+        {
+            "source": "steven.kean@enron.com",
+            "target": "alan.comnes@enron.com"
+        },
+        {
+            "source": "steven.kean@enron.com",
+            "target": "phillip.allen@enron.com"
+        },
+        {
+            "source": "beth.apollo@enron.com",
+            "target": "susan.bailey@enron.com"
+        },
+        {
+            "source": "beth.apollo@enron.com",
+            "target": "sally.beck@enron.com"
+        },
+        {
+            "source": "beth.apollo@enron.com",
+            "target": "shona.wilson@enron.com"
+        },
+        {
+            "source": "beth.apollo@enron.com",
+            "target": "hector.mcloughlin@enron.com"
+        },
+        {
+            "source": "beth.apollo@enron.com",
+            "target": "richard.causey@enron.com"
+        },
+        {
+            "source": "beth.apollo@enron.com",
+            "target": "rick.buy@enron.com"
+        },
+        {
+            "source": "beth.apollo@enron.com",
+            "target": "patti.thompson@enron.com"
+        },
+        {
+            "source": "ruth.concannon@enron.com",
+            "target": "jeff.dasovich@enron.com"
+        },
+        {
+            "source": "ruth.concannon@enron.com",
+            "target": "ruth.concannon@enron.com"
+        },
+        {
+            "source": "ruth.concannon@enron.com",
+            "target": "ed.mcmichael@enron.com"
+        },
+        {
+            "source": "ruth.concannon@enron.com",
+            "target": "t..hodge@enron.com"
+        },
+        {
+            "source": "ruth.concannon@enron.com",
+            "target": "dan.hyvl@enron.com"
+        },
+        {
+            "source": "ruth.concannon@enron.com",
+            "target": "john.hodge@enron.com"
+        },
+        {
+            "source": "ruth.concannon@enron.com",
+            "target": "jeffrey.hodge@enron.com"
+        },
+        {
+            "source": "peter.keohane@enron.com",
+            "target": "james.derrick@enron.com"
+        },
+        {
+            "source": "peter.keohane@enron.com",
+            "target": "mark.haedicke@enron.com"
+        },
+        {
+            "source": "peter.keohane@enron.com",
+            "target": "john.lavorato@enron.com"
+        },
+        {
+            "source": "peter.keohane@enron.com",
+            "target": "raymond.bowen@enron.com"
+        },
+        {
+            "source": "peter.keohane@enron.com",
+            "target": "e..haedicke@enron.com"
+        },
+        {
+            "source": "peter.keohane@enron.com",
+            "target": "mary.cook@enron.com"
+        },
+        {
+            "source": "peter.keohane@enron.com",
+            "target": "jeffrey.hodge@enron.com"
+        },
+        {
+            "source": "peter.keohane@enron.com",
+            "target": "t..hodge@enron.com"
+        },
+        {
+            "source": "peter.keohane@enron.com",
+            "target": "carol.clair@enron.com"
+        },
+        {
+            "source": "peter.keohane@enron.com",
+            "target": "mark.taylor@enron.com"
+        },
+        {
+            "source": "peter.keohane@enron.com",
+            "target": "david.delainey@enron.com"
+        },
+        {
+            "source": "peter.keohane@enron.com",
+            "target": "mark.greenberg@enron.com"
+        },
+        {
+            "source": "peter.keohane@enron.com",
+            "target": "alan.aronowitz@enron.com"
+        },
+        {
+            "source": "f..campbell@enron.com",
+            "target": "lloyd.will@enron.com"
+        },
+        {
+            "source": "f..campbell@enron.com",
+            "target": "don.baughman@enron.com"
+        },
+        {
+            "source": "sean.crandall@enron.com",
+            "target": "alan.comnes@enron.com"
+        },
+        {
+            "source": "sean.crandall@enron.com",
+            "target": "stephanie.sever@enron.com"
+        },
+        {
+            "source": "stanley.horton@enron.com",
+            "target": "sally.beck@enron.com"
+        },
+        {
+            "source": "stanley.horton@enron.com",
+            "target": "rick.buy@enron.com"
+        },
+        {
+            "source": "stanley.horton@enron.com",
+            "target": "shelley.corman@enron.com"
+        },
+        {
+            "source": "stanley.horton@enron.com",
+            "target": "tracy.geaccone@enron.com"
+        },
+        {
+            "source": "stanley.horton@enron.com",
+            "target": "rod.hayslett@enron.com"
+        },
+        {
+            "source": "stanley.horton@enron.com",
+            "target": "cindy.stark@enron.com"
+        },
+        {
+            "source": "stanley.horton@enron.com",
+            "target": "lindy.donoho@enron.com"
+        },
+        {
+            "source": "stanley.horton@enron.com",
+            "target": "john.lavorato@enron.com"
+        },
+        {
+            "source": "stanley.horton@enron.com",
+            "target": "vince.kaminski@enron.com"
+        },
+        {
+            "source": "stanley.horton@enron.com",
+            "target": "no.address@enron.com"
+        },
+        {
+            "source": "stanley.horton@enron.com",
+            "target": "phillip.allen@enron.com"
+        },
+        {
+            "source": "robert.benson@enron.com",
+            "target": "stephanie.sever@enron.com"
+        },
+        {
+            "source": "robert.benson@enron.com",
+            "target": "dana.davis@enron.com"
+        },
+        {
+            "source": "scott.hendrickson@enron.com",
+            "target": "ina.rangel@enron.com"
+        },
+        {
+            "source": "shelley.corman@enron.com",
+            "target": "shelley.corman@enron.com"
+        },
+        {
+            "source": "shelley.corman@enron.com",
+            "target": "rod.hayslett@enron.com"
+        },
+        {
+            "source": "shelley.corman@enron.com",
+            "target": "a..howard@enron.com"
+        },
+        {
+            "source": "shelley.corman@enron.com",
+            "target": "40enron@enron.com"
+        },
+        {
+            "source": "shelley.corman@enron.com",
+            "target": "tracy.geaccone@enron.com"
+        },
+        {
+            "source": "shelley.corman@enron.com",
+            "target": "cindy.stark@enron.com"
+        },
+        {
+            "source": "shelley.corman@enron.com",
+            "target": "jeff.dasovich@enron.com"
+        },
+        {
+            "source": "shelley.corman@enron.com",
+            "target": "james.steffes@enron.com"
+        },
+        {
+            "source": "shelley.corman@enron.com",
+            "target": "lindy.donoho@enron.com"
+        },
+        {
+            "source": "shelley.corman@enron.com",
+            "target": "jeffery.fawcett@enron.com"
+        },
+        {
+            "source": "richard.causey@enron.com",
+            "target": "ted.murphy@enron.com"
+        },
+        {
+            "source": "richard.causey@enron.com",
+            "target": "sally.beck@enron.com"
+        },
+        {
+            "source": "richard.causey@enron.com",
+            "target": "rick.buy@enron.com"
+        },
+        {
+            "source": "richard.causey@enron.com",
+            "target": "vicki.sharp@enron.com"
+        },
+        {
+            "source": "richard.causey@enron.com",
+            "target": "rod.hayslett@enron.com"
+        },
+        {
+            "source": "richard.causey@enron.com",
+            "target": "james.derrick@enron.com"
+        },
+        {
+            "source": "richard.causey@enron.com",
+            "target": "brenda.herod@enron.com"
+        },
+        {
+            "source": "richard.causey@enron.com",
+            "target": "patti.thompson@enron.com"
+        },
+        {
+            "source": "richard.causey@enron.com",
+            "target": "vince.kaminski@enron.com"
+        },
+        {
+            "source": "richard.causey@enron.com",
+            "target": "karen.denne@enron.com"
+        },
+        {
+            "source": "richard.causey@enron.com",
+            "target": "cindy.stark@enron.com"
+        },
+        {
+            "source": "richard.causey@enron.com",
+            "target": "40enron@enron.com"
+        },
+        {
+            "source": "james.derrick@enron.com",
+            "target": "james.derrick@enron.com"
+        },
+        {
+            "source": "james.derrick@enron.com",
+            "target": "mark.haedicke@enron.com"
+        },
+        {
+            "source": "james.derrick@enron.com",
+            "target": "vicki.sharp@enron.com"
+        },
+        {
+            "source": "james.derrick@enron.com",
+            "target": "e..haedicke@enron.com"
+        },
+        {
+            "source": "james.derrick@enron.com",
+            "target": "karen.denne@enron.com"
+        },
+        {
+            "source": "james.derrick@enron.com",
+            "target": "alan.aronowitz@enron.com"
+        },
+        {
+            "source": "james.derrick@enron.com",
+            "target": "40enron@enron.com"
+        },
+        {
+            "source": "james.derrick@enron.com",
+            "target": "michelle.cash@enron.com"
+        },
+        {
+            "source": "james.derrick@enron.com",
+            "target": "david.delainey@enron.com"
+        },
+        {
+            "source": "james.derrick@enron.com",
+            "target": "no.address@enron.com"
+        },
+        {
+            "source": "james.derrick@enron.com",
+            "target": "mark.greenberg@enron.com"
+        },
+        {
+            "source": "larry.campbell@enron.com",
+            "target": "don.baughman@enron.com"
+        },
+        {
+            "source": "larry.campbell@enron.com",
+            "target": "larry.campbell@enron.com"
+        },
+        {
+            "source": "brenda.herod@enron.com",
+            "target": "sally.beck@enron.com"
+        },
+        {
+            "source": "brenda.herod@enron.com",
+            "target": "patti.thompson@enron.com"
+        },
+        {
+            "source": "brenda.herod@enron.com",
+            "target": "brian.redmond@enron.com"
+        },
+        {
+            "source": "brenda.herod@enron.com",
+            "target": "daren.farmer@enron.com"
+        },
+        {
+            "source": "brenda.herod@enron.com",
+            "target": "raymond.bowen@enron.com"
+        },
+        {
+            "source": "brenda.herod@enron.com",
+            "target": "hector.mcloughlin@enron.com"
+        },
+        {
+            "source": "brenda.herod@enron.com",
+            "target": "dan.hyvl@enron.com"
+        },
+        {
+            "source": "hector.mcloughlin@enron.com",
+            "target": "sally.beck@enron.com"
+        },
+        {
+            "source": "hector.mcloughlin@enron.com",
+            "target": "patti.thompson@enron.com"
+        },
+        {
+            "source": "hector.mcloughlin@enron.com",
+            "target": "daren.farmer@enron.com"
+        },
+        {
+            "source": "hector.mcloughlin@enron.com",
+            "target": "michelle.cash@enron.com"
+        },
+        {
+            "source": "hector.mcloughlin@enron.com",
+            "target": "darron.giron@enron.com"
+        },
+        {
+            "source": "hector.mcloughlin@enron.com",
+            "target": "greg.piper@enron.com"
+        },
+        {
+            "source": "rick.buy@enron.com",
+            "target": "ted.murphy@enron.com"
+        },
+        {
+            "source": "rick.buy@enron.com",
+            "target": "sally.beck@enron.com"
+        },
+        {
+            "source": "rick.buy@enron.com",
+            "target": "rick.buy@enron.com"
+        },
+        {
+            "source": "rick.buy@enron.com",
+            "target": "david.delainey@enron.com"
+        },
+        {
+            "source": "rick.buy@enron.com",
+            "target": "john.lavorato@enron.com"
+        },
+        {
+            "source": "rick.buy@enron.com",
+            "target": "shona.wilson@enron.com"
+        },
+        {
+            "source": "rick.buy@enron.com",
+            "target": "e..haedicke@enron.com"
+        },
+        {
+            "source": "rick.buy@enron.com",
+            "target": "raymond.bowen@enron.com"
+        },
+        {
+            "source": "rick.buy@enron.com",
+            "target": "greg.piper@enron.com"
+        },
+        {
+            "source": "rick.buy@enron.com",
+            "target": "mark.haedicke@enron.com"
+        },
+        {
+            "source": "rick.buy@enron.com",
+            "target": "vince.kaminski@enron.com"
+        },
+        {
+            "source": "rick.buy@enron.com",
+            "target": "ed.mcmichael@enron.com"
+        },
+        {
+            "source": "rick.buy@enron.com",
+            "target": "t..hodge@enron.com"
+        },
+        {
+            "source": "mark.fisher@enron.com",
+            "target": "no.address@enron.com"
+        },
+        {
+            "source": "judy.hernandez@enron.com",
+            "target": "judy.hernandez@enron.com"
+        },
+        {
+            "source": "e..haedicke@enron.com",
+            "target": "john.lavorato@enron.com"
+        },
+        {
+            "source": "e..haedicke@enron.com",
+            "target": "t..hodge@enron.com"
+        },
+        {
+            "source": "e..haedicke@enron.com",
+            "target": "mark.greenberg@enron.com"
+        },
+        {
+            "source": "e..haedicke@enron.com",
+            "target": "raymond.bowen@enron.com"
+        },
+        {
+            "source": "e..haedicke@enron.com",
+            "target": "mary.cook@enron.com"
+        },
+        {
+            "source": "e..haedicke@enron.com",
+            "target": "vicki.sharp@enron.com"
+        },
+        {
+            "source": "e..haedicke@enron.com",
+            "target": "michelle.cash@enron.com"
+        },
+        {
+            "source": "e..haedicke@enron.com",
+            "target": "david.delainey@enron.com"
+        },
+        {
+            "source": "e..haedicke@enron.com",
+            "target": "alan.aronowitz@enron.com"
+        },
+        {
+            "source": "e..haedicke@enron.com",
+            "target": "no.address@enron.com"
+        },
+        {
+            "source": "e..haedicke@enron.com",
+            "target": "karen.denne@enron.com"
+        },
+        {
+            "source": "e..haedicke@enron.com",
+            "target": "ed.mcmichael@enron.com"
+        },
+        {
+            "source": "brian.redmond@enron.com",
+            "target": "sally.beck@enron.com"
+        },
+        {
+            "source": "brian.redmond@enron.com",
+            "target": "david.delainey@enron.com"
+        },
+        {
+            "source": "brian.redmond@enron.com",
+            "target": "john.lavorato@enron.com"
+        },
+        {
+            "source": "brian.redmond@enron.com",
+            "target": "brian.redmond@enron.com"
+        },
+        {
+            "source": "brian.redmond@enron.com",
+            "target": "mark.haedicke@enron.com"
+        },
+        {
+            "source": "brian.redmond@enron.com",
+            "target": "t..hodge@enron.com"
+        },
+        {
+            "source": "brian.redmond@enron.com",
+            "target": "jeffrey.hodge@enron.com"
+        },
+        {
+            "source": "f..brawner@enron.com",
+            "target": "david.oxley@enron.com"
+        },
+        {
+            "source": "f..brawner@enron.com",
+            "target": "john.lavorato@enron.com"
+        },
+        {
+            "source": "f..brawner@enron.com",
+            "target": "tom.donohoe@enron.com"
+        },
+        {
+            "source": "f..brawner@enron.com",
+            "target": "stephanie.sever@enron.com"
+        },
+        {
+            "source": "mark.guzman@enron.com",
+            "target": "mark.guzman@enron.com"
+        },
+        {
+            "source": "mark.guzman@enron.com",
+            "target": "monika.causholli@enron.com"
+        },
+        {
+            "source": "juan.hernandez@enron.com",
+            "target": "lloyd.will@enron.com"
+        },
+        {
+            "source": "juan.hernandez@enron.com",
+            "target": "don.baughman@enron.com"
+        },
+        {
+            "source": "juan.hernandez@enron.com",
+            "target": "doug.gilbert-smith@enron.com"
+        },
+        {
+            "source": "juan.hernandez@enron.com",
+            "target": "clint.dean@enron.com"
+        },
+        {
+            "source": "michelle.cash@enron.com",
+            "target": "david.oxley@enron.com"
+        },
+        {
+            "source": "michelle.cash@enron.com",
+            "target": "mark.haedicke@enron.com"
+        },
+        {
+            "source": "michelle.cash@enron.com",
+            "target": "michelle.cash@enron.com"
+        },
+        {
+            "source": "michelle.cash@enron.com",
+            "target": "alan.aronowitz@enron.com"
+        },
+        {
+            "source": "michelle.cash@enron.com",
+            "target": "mark.greenberg@enron.com"
+        },
+        {
+            "source": "michelle.cash@enron.com",
+            "target": "raymond.bowen@enron.com"
+        },
+        {
+            "source": "michelle.cash@enron.com",
+            "target": "a..howard@enron.com"
+        },
+        {
+            "source": "michelle.cash@enron.com",
+            "target": "sally.beck@enron.com"
+        },
+        {
+            "source": "michelle.cash@enron.com",
+            "target": "john.lavorato@enron.com"
+        },
+        {
+            "source": "michelle.cash@enron.com",
+            "target": "vicki.sharp@enron.com"
+        },
+        {
+            "source": "michelle.cash@enron.com",
+            "target": "karen.denne@enron.com"
+        },
+        {
+            "source": "michelle.cash@enron.com",
+            "target": "doug.gilbert-smith@enron.com"
+        },
+        {
+            "source": "michelle.cash@enron.com",
+            "target": "jeffrey.hodge@enron.com"
+        },
+        {
+            "source": "michelle.cash@enron.com",
+            "target": "no.address@enron.com"
+        },
+        {
+            "source": "enron.announcements@enron.com",
+            "target": "jeff.dasovich@enron.com"
+        },
+        {
+            "source": "enron.announcements@enron.com",
+            "target": "mark.haedicke@enron.com"
+        },
+        {
+            "source": "john.hodge@enron.com",
+            "target": "ina.rangel@enron.com"
+        },
+        {
+            "source": "john.hodge@enron.com",
+            "target": "john.hodge@enron.com"
+        },
+        {
+            "source": "john.hodge@enron.com",
+            "target": "ed.mcmichael@enron.com"
+        },
+        {
+            "source": "john.hodge@enron.com",
+            "target": "john.griffith@enron.com"
+        },
+        {
+            "source": "tom.donohoe@enron.com",
+            "target": "ina.rangel@enron.com"
+        },
+        {
+            "source": "david.delainey@enron.com",
+            "target": "sally.beck@enron.com"
+        },
+        {
+            "source": "david.delainey@enron.com",
+            "target": "jeff.dasovich@enron.com"
+        },
+        {
+            "source": "david.delainey@enron.com",
+            "target": "james.steffes@enron.com"
+        },
+        {
+            "source": "david.delainey@enron.com",
+            "target": "mark.haedicke@enron.com"
+        },
+        {
+            "source": "david.delainey@enron.com",
+            "target": "john.lavorato@enron.com"
+        },
+        {
+            "source": "david.delainey@enron.com",
+            "target": "david.oxley@enron.com"
+        },
+        {
+            "source": "david.delainey@enron.com",
+            "target": "raymond.bowen@enron.com"
+        },
+        {
+            "source": "david.delainey@enron.com",
+            "target": "david.delainey@enron.com"
+        },
+        {
+            "source": "david.delainey@enron.com",
+            "target": "greg.piper@enron.com"
+        },
+        {
+            "source": "david.delainey@enron.com",
+            "target": "vicki.sharp@enron.com"
+        },
+        {
+            "source": "david.delainey@enron.com",
+            "target": "sandra.brawner@enron.com"
+        },
+        {
+            "source": "david.delainey@enron.com",
+            "target": "patti.thompson@enron.com"
+        },
+        {
+            "source": "david.delainey@enron.com",
+            "target": "jeffrey.hodge@enron.com"
+        },
+        {
+            "source": "david.delainey@enron.com",
+            "target": "mike.smith@enron.com"
+        },
+        {
+            "source": "david.delainey@enron.com",
+            "target": "vince.kaminski@enron.com"
+        },
+        {
+            "source": "david.delainey@enron.com",
+            "target": "phillip.allen@enron.com"
+        },
+        {
+            "source": "jeff.dasovich@enron.com",
+            "target": "james.steffes@enron.com"
+        },
+        {
+            "source": "jeff.dasovich@enron.com",
+            "target": "vicki.sharp@enron.com"
+        },
+        {
+            "source": "jeff.dasovich@enron.com",
+            "target": "alan.comnes@enron.com"
+        },
+        {
+            "source": "jeff.dasovich@enron.com",
+            "target": "phillip.allen@enron.com"
+        },
+        {
+            "source": "jeff.dasovich@enron.com",
+            "target": "karen.denne@enron.com"
+        },
+        {
+            "source": "jeff.dasovich@enron.com",
+            "target": "joseph.alamo@enron.com"
+        },
+        {
+            "source": "jeff.dasovich@enron.com",
+            "target": "mike.smith@enron.com"
+        },
+        {
+            "source": "jeff.dasovich@enron.com",
+            "target": "mday@gmssr.com"
+        },
+        {
+            "source": "jeff.dasovich@enron.com",
+            "target": "jeffery.fawcett@enron.com"
+        },
+        {
+            "source": "jeff.dasovich@enron.com",
+            "target": "jdasovic@enron.com"
+        },
+        {
+            "source": "jeff.dasovich@enron.com",
+            "target": "jeff.dasovich@enron.com"
+        },
+        {
+            "source": "jeff.dasovich@enron.com",
+            "target": "leslie.lawner@enron.com"
+        },
+        {
+            "source": "jeff.dasovich@enron.com",
+            "target": "keith.holst@enron.com"
+        },
+        {
+            "source": "jeff.dasovich@enron.com",
+            "target": "greg.piper@enron.com"
+        },
+        {
+            "source": "jeff.dasovich@enron.com",
+            "target": "k..allen@enron.com"
+        },
+        {
+            "source": "a..howard@enron.com",
+            "target": "rod.hayslett@enron.com"
+        },
+        {
+            "source": "a..howard@enron.com",
+            "target": "lindy.donoho@enron.com"
+        },
+        {
+            "source": "a..howard@enron.com",
+            "target": "tracy.geaccone@enron.com"
+        },
+        {
+            "source": "a..howard@enron.com",
+            "target": "a..howard@enron.com"
+        },
+        {
+            "source": "doug.gilbert-smith@enron.com",
+            "target": "clint.dean@enron.com"
+        },
+        {
+            "source": "doug.gilbert-smith@enron.com",
+            "target": "james.steffes@enron.com"
+        },
+        {
+            "source": "doug.gilbert-smith@enron.com",
+            "target": "doug.gilbert-smith@enron.com"
+        },
+        {
+            "source": "doug.gilbert-smith@enron.com",
+            "target": "lloyd.will@enron.com"
+        },
+        {
+            "source": "doug.gilbert-smith@enron.com",
+            "target": "stephanie.sever@enron.com"
+        },
+        {
+            "source": "doug.gilbert-smith@enron.com",
+            "target": "harry.arora@enron.com"
+        },
+        {
+            "source": "tracy.geaccone@enron.com",
+            "target": "lindy.donoho@enron.com"
+        },
+        {
+            "source": "tracy.geaccone@enron.com",
+            "target": "rod.hayslett@enron.com"
+        },
+        {
+            "source": "tracy.geaccone@enron.com",
+            "target": "cindy.stark@enron.com"
+        },
+        {
+            "source": "tracy.geaccone@enron.com",
+            "target": "no.address@enron.com"
+        },
+        {
+            "source": "tracy.geaccone@enron.com",
+            "target": "40enron@enron.com"
+        },
+        {
+            "source": "darron.giron@enron.com",
+            "target": "shona.wilson@enron.com"
+        },
+        {
+            "source": "darron.giron@enron.com",
+            "target": "john.griffith@enron.com"
+        },
+        {
+            "source": "darron.giron@enron.com",
+            "target": "ina.rangel@enron.com"
+        },
+        {
+            "source": "darron.giron@enron.com",
+            "target": "stephanie.sever@enron.com"
+        },
+        {
+            "source": "patti.thompson@enron.com",
+            "target": "shona.wilson@enron.com"
+        },
+        {
+            "source": "patti.thompson@enron.com",
+            "target": "sally.beck@enron.com"
+        },
+        {
+            "source": "stephanie.sever@enron.com",
+            "target": "k..allen@enron.com"
+        },
+        {
+            "source": "stephanie.sever@enron.com",
+            "target": "harry.arora@enron.com"
+        },
+        {
+            "source": "stephanie.sever@enron.com",
+            "target": "don.baughman@enron.com"
+        },
+        {
+            "source": "stephanie.sever@enron.com",
+            "target": "mike.carson@enron.com"
+        },
+        {
+            "source": "stephanie.sever@enron.com",
+            "target": "john.griffith@enron.com"
+        },
+        {
+            "source": "stephanie.sever@enron.com",
+            "target": "carol.clair@enron.com"
+        },
+        {
+            "source": "stephanie.sever@enron.com",
+            "target": "mark.taylor@enron.com"
+        },
+        {
+            "source": "stephanie.sever@enron.com",
+            "target": "sally.beck@enron.com"
+        },
+        {
+            "source": "stephanie.sever@enron.com",
+            "target": "phillip.allen@enron.com"
+        },
+        {
+            "source": "jeffrey.hodge@enron.com",
+            "target": "mark.haedicke@enron.com"
+        },
+        {
+            "source": "jeffrey.hodge@enron.com",
+            "target": "phillip.allen@enron.com"
+        },
+        {
+            "source": "jeffrey.hodge@enron.com",
+            "target": "dan.hyvl@enron.com"
+        },
+        {
+            "source": "jeffrey.hodge@enron.com",
+            "target": "mark.taylor@enron.com"
+        },
+        {
+            "source": "jeffrey.hodge@enron.com",
+            "target": "james.steffes@enron.com"
+        },
+        {
+            "source": "jeffrey.hodge@enron.com",
+            "target": "mark.greenberg@enron.com"
+        },
+        {
+            "source": "jeffrey.hodge@enron.com",
+            "target": "ed.mcmichael@enron.com"
+        },
+        {
+            "source": "jeffrey.hodge@enron.com",
+            "target": "alan.aronowitz@enron.com"
+        },
+        {
+            "source": "clint.dean@enron.com",
+            "target": "clint.dean@enron.com"
+        },
+        {
+            "source": "clint.dean@enron.com",
+            "target": "lloyd.will@enron.com"
+        },
+        {
+            "source": "clint.dean@enron.com",
+            "target": "no.address@enron.com"
+        },
+        {
+            "source": "clint.dean@enron.com",
+            "target": "mike.carson@enron.com"
+        },
+        {
+            "source": "dana.davis@enron.com",
+            "target": "dana.davis@enron.com"
+        },
+        {
+            "source": "dana.davis@enron.com",
+            "target": "don.baughman@enron.com"
+        },
+        {
+            "source": "dana.davis@enron.com",
+            "target": "lloyd.will@enron.com"
+        },
+        {
+            "source": "dana.davis@enron.com",
+            "target": "sally.beck@enron.com"
+        },
+        {
+            "source": "mike.smith@enron.com",
+            "target": "vicki.sharp@enron.com"
+        },
+        {
+            "source": "mike.smith@enron.com",
+            "target": "mday@gmssr.com"
+        },
+        {
+            "source": "mike.smith@enron.com",
+            "target": "phillip.allen@enron.com"
+        },
+        {
+            "source": "mike.smith@enron.com",
+            "target": "dan.hyvl@enron.com"
+        },
+        {
+            "source": "mary.cook@enron.com",
+            "target": "mary.cook@enron.com"
+        },
+        {
+            "source": "mary.cook@enron.com",
+            "target": "alan.aronowitz@enron.com"
+        },
+        {
+            "source": "mary.cook@enron.com",
+            "target": "susan.bailey@enron.com"
+        },
+        {
+            "source": "mary.cook@enron.com",
+            "target": "mark.taylor@enron.com"
+        },
+        {
+            "source": "mary.cook@enron.com",
+            "target": "mark.haedicke@enron.com"
+        },
+        {
+            "source": "don.baughman@enron.com",
+            "target": "don.baughman@enron.com"
+        },
+        {
+            "source": "don.baughman@enron.com",
+            "target": "lloyd.will@enron.com"
+        },
+        {
+            "source": "shona.wilson@enron.com",
+            "target": "sally.beck@enron.com"
+        },
+        {
+            "source": "shona.wilson@enron.com",
+            "target": "ted.murphy@enron.com"
+        },
+        {
+            "source": "shona.wilson@enron.com",
+            "target": "john.lavorato@enron.com"
+        },
+        {
+            "source": "shona.wilson@enron.com",
+            "target": "shona.wilson@enron.com"
+        },
+        {
+            "source": "shona.wilson@enron.com",
+            "target": "40enron@enron.com"
+        },
+        {
+            "source": "mark.haedicke@enron.com",
+            "target": "alan.aronowitz@enron.com"
+        },
+        {
+            "source": "mark.haedicke@enron.com",
+            "target": "vicki.sharp@enron.com"
+        },
+        {
+            "source": "mark.haedicke@enron.com",
+            "target": "john.lavorato@enron.com"
+        },
+        {
+            "source": "mark.haedicke@enron.com",
+            "target": "mark.taylor@enron.com"
+        },
+        {
+            "source": "mark.haedicke@enron.com",
+            "target": "david.oxley@enron.com"
+        },
+        {
+            "source": "mark.haedicke@enron.com",
+            "target": "vince.kaminski@enron.com"
+        },
+        {
+            "source": "mark.haedicke@enron.com",
+            "target": "mark.greenberg@enron.com"
+        },
+        {
+            "source": "mark.haedicke@enron.com",
+            "target": "mark.haedicke@enron.com"
+        },
+        {
+            "source": "mark.haedicke@enron.com",
+            "target": "carol.clair@enron.com"
+        },
+        {
+            "source": "mark.haedicke@enron.com",
+            "target": "greg.piper@enron.com"
+        },
+        {
+            "source": "mark.taylor@enron.com",
+            "target": "susan.bailey@enron.com"
+        },
+        {
+            "source": "mark.taylor@enron.com",
+            "target": "alan.aronowitz@enron.com"
+        },
+        {
+            "source": "mark.taylor@enron.com",
+            "target": "dan.hyvl@enron.com"
+        },
+        {
+            "source": "mark.taylor@enron.com",
+            "target": "carol.clair@enron.com"
+        },
+        {
+            "source": "mark.taylor@enron.com",
+            "target": "mark.greenberg@enron.com"
+        },
+        {
+            "source": "mark.taylor@enron.com",
+            "target": "phillip.allen@enron.com"
+        },
+        {
+            "source": "ted.murphy@enron.com",
+            "target": "sally.beck@enron.com"
+        },
+        {
+            "source": "ted.murphy@enron.com",
+            "target": "vince.kaminski@enron.com"
+        },
+        {
+            "source": "ted.murphy@enron.com",
+            "target": "john.lavorato@enron.com"
+        },
+        {
+            "source": "ted.murphy@enron.com",
+            "target": "40enron@enron.com"
+        },
+        {
+            "source": "ina.rangel@enron.com",
+            "target": "john.lavorato@enron.com"
+        },
+        {
+            "source": "ina.rangel@enron.com",
+            "target": "phillip.allen@enron.com"
+        },
+        {
+            "source": "ina.rangel@enron.com",
+            "target": "keith.holst@enron.com"
+        },
+        {
+            "source": "ina.rangel@enron.com",
+            "target": "daren.farmer@enron.com"
+        },
+        {
+            "source": "ina.rangel@enron.com",
+            "target": "john.griffith@enron.com"
+        },
+        {
+            "source": "ina.rangel@enron.com",
+            "target": "sandra.brawner@enron.com"
+        },
+        {
+            "source": "ina.rangel@enron.com",
+            "target": "k..allen@enron.com"
+        },
+        {
+            "source": "ina.rangel@enron.com",
+            "target": "randall.gay@enron.com"
+        },
+        {
+            "source": "lindy.donoho@enron.com",
+            "target": "rod.hayslett@enron.com"
+        },
+        {
+            "source": "lindy.donoho@enron.com",
+            "target": "jeffery.fawcett@enron.com"
+        },
+        {
+            "source": "dan.hyvl@enron.com",
+            "target": "mark.greenberg@enron.com"
+        },
+        {
+            "source": "dan.hyvl@enron.com",
+            "target": "alan.aronowitz@enron.com"
+        },
+        {
+            "source": "dan.hyvl@enron.com",
+            "target": "randall.gay@enron.com"
+        },
+        {
+            "source": "dan.hyvl@enron.com",
+            "target": "ed.mcmichael@enron.com"
+        },
+        {
+            "source": "dan.hyvl@enron.com",
+            "target": "daren.farmer@enron.com"
+        },
+        {
+            "source": "mary.poorman@enron.com",
+            "target": "daren.farmer@enron.com"
+        },
+        {
+            "source": "mary.poorman@enron.com",
+            "target": "mary.poorman@enron.com"
+        },
+        {
+            "source": "vince.kaminski@enron.com",
+            "target": "sally.beck@enron.com"
+        },
+        {
+            "source": "vince.kaminski@enron.com",
+            "target": "vince.kaminski@enron.com"
+        },
+        {
+            "source": "vince.kaminski@enron.com",
+            "target": "john.lavorato@enron.com"
+        },
+        {
+            "source": "vince.kaminski@enron.com",
+            "target": "david.oxley@enron.com"
+        },
+        {
+            "source": "vince.kaminski@enron.com",
+            "target": "lloyd.will@enron.com"
+        },
+        {
+            "source": "vince.kaminski@enron.com",
+            "target": "james.steffes@enron.com"
+        },
+        {
+            "source": "lloyd.will@enron.com",
+            "target": "lloyd.will@enron.com"
+        },
+        {
+            "source": "no.address@enron.com",
+            "target": "k..allen@enron.com"
+        },
+        {
+            "source": "no.address@enron.com",
+            "target": "mike.carson@enron.com"
+        },
+        {
+            "source": "no.address@enron.com",
+            "target": "rod.hayslett@enron.com"
+        },
+        {
+            "source": "no.address@enron.com",
+            "target": "vicki.sharp@enron.com"
+        },
+        {
+            "source": "no.address@enron.com",
+            "target": "t..hodge@enron.com"
+        },
+        {
+            "source": "sandra.brawner@enron.com",
+            "target": "john.griffith@enron.com"
+        },
+        {
+            "source": "karen.denne@enron.com",
+            "target": "james.steffes@enron.com"
+        },
+        {
+            "source": "karen.denne@enron.com",
+            "target": "alan.comnes@enron.com"
+        },
+        {
+            "source": "karen.denne@enron.com",
+            "target": "joseph.alamo@enron.com"
+        },
+        {
+            "source": "carol.clair@enron.com",
+            "target": "susan.bailey@enron.com"
+        },
+        {
+            "source": "carol.clair@enron.com",
+            "target": "alan.aronowitz@enron.com"
+        },
+        {
+            "source": "david.oxley@enron.com",
+            "target": "k..allen@enron.com"
+        },
+        {
+            "source": "david.oxley@enron.com",
+            "target": "john.lavorato@enron.com"
+        },
+        {
+            "source": "david.oxley@enron.com",
+            "target": "sally.beck@enron.com"
+        },
+        {
+            "source": "keith.holst@enron.com",
+            "target": "k..allen@enron.com"
+        },
+        {
+            "source": "keith.holst@enron.com",
+            "target": "john.lavorato@enron.com"
+        },
+        {
+            "source": "keith.holst@enron.com",
+            "target": "phillip.allen@enron.com"
+        },
+        {
+            "source": "james.steffes@enron.com",
+            "target": "alan.comnes@enron.com"
+        },
+        {
+            "source": "james.steffes@enron.com",
+            "target": "mday@gmssr.com"
+        },
+        {
+            "source": "james.steffes@enron.com",
+            "target": "leslie.lawner@enron.com"
+        },
+        {
+            "source": "james.steffes@enron.com",
+            "target": "phillip.allen@enron.com"
+        },
+        {
+            "source": "james.steffes@enron.com",
+            "target": "vicki.sharp@enron.com"
+        },
+        {
+            "source": "james.steffes@enron.com",
+            "target": "k..allen@enron.com"
+        },
+        {
+            "source": "james.steffes@enron.com",
+            "target": "joseph.alamo@enron.com"
+        },
+        {
+            "source": "susan.bailey@enron.com",
+            "target": "alan.aronowitz@enron.com"
+        },
+        {
+            "source": "susan.bailey@enron.com",
+            "target": "mark.greenberg@enron.com"
+        },
+        {
+            "source": "john.lavorato@enron.com",
+            "target": "k..allen@enron.com"
+        },
+        {
+            "source": "john.lavorato@enron.com",
+            "target": "phillip.allen@enron.com"
+        },
+        {
+            "source": "john.lavorato@enron.com",
+            "target": "sally.beck@enron.com"
+        },
+        {
+            "source": "john.lavorato@enron.com",
+            "target": "harry.arora@enron.com"
+        },
+        {
+            "source": "mcuilla@enron.com",
+            "target": "ebass@enron.com"
+        },
+        {
+            "source": "harry.arora@enron.com",
+            "target": "harry.arora@enron.com"
+        },
+        {
+            "source": "jdasovic@enron.com",
+            "target": "mday@gmssr.com"
+        },
+        {
+            "source": "ed.mcmichael@enron.com",
+            "target": "ed.mcmichael@enron.com"
+        },
+        {
+            "source": "ed.mcmichael@enron.com",
+            "target": "sally.beck@enron.com"
+        },
+        {
+            "source": "ed.mcmichael@enron.com",
+            "target": "john.griffith@enron.com"
+        },
+        {
+            "source": "ed.mcmichael@enron.com",
+            "target": "t..hodge@enron.com"
+        },
+        {
+            "source": "ed.mcmichael@enron.com",
+            "target": "k..allen@enron.com"
+        },
+        {
+            "source": "ebass@enron.com",
+            "target": "ebass@enron.com"
+        },
+        {
+            "source": "monika.causholli@enron.com",
+            "target": "monika.causholli@enron.com"
+        },
+        {
+            "source": "alan.aronowitz@enron.com",
+            "target": "sally.beck@enron.com"
+        },
+        {
+            "source": "alan.aronowitz@enron.com",
+            "target": "t..hodge@enron.com"
+        },
+        {
+            "source": "sally.beck@enron.com",
+            "target": "vicki.sharp@enron.com"
+        },
+        {
+            "source": "sally.beck@enron.com",
+            "target": "sally.beck@enron.com"
+        },
+        {
+            "source": "sally.beck@enron.com",
+            "target": "greg.piper@enron.com"
+        },
+        {
+            "source": "sally.beck@enron.com",
+            "target": "raymond.bowen@enron.com"
+        },
+        {
+            "source": "sally.beck@enron.com",
+            "target": "daren.farmer@enron.com"
+        },
+        {
+            "source": "sally.beck@enron.com",
+            "target": "rod.hayslett@enron.com"
+        },
+        {
+            "source": "sally.beck@enron.com",
+            "target": "40enron@enron.com"
+        },
+        {
+            "source": "leslie.lawner@enron.com",
+            "target": "phillip.allen@enron.com"
+        },
+        {
+            "source": "leslie.lawner@enron.com",
+            "target": "joseph.alamo@enron.com"
+        },
+        {
+            "source": "leslie.lawner@enron.com",
+            "target": "leslie.lawner@enron.com"
+        },
+        {
+            "source": "leslie.lawner@enron.com",
+            "target": "mday@gmssr.com"
+        },
+        {
+            "source": "leslie.lawner@enron.com",
+            "target": "k..allen@enron.com"
+        },
+        {
+            "source": "vicki.sharp@enron.com",
+            "target": "mday@gmssr.com"
+        },
+        {
+            "source": "vicki.sharp@enron.com",
+            "target": "vicki.sharp@enron.com"
+        },
+        {
+            "source": "t..hodge@enron.com",
+            "target": "t..hodge@enron.com"
+        },
+        {
+            "source": "mday@gmssr.com",
+            "target": "joseph.alamo@enron.com"
+        },
+        {
+            "source": "k..allen@enron.com",
+            "target": "40enron@enron.com"
+        },
+        {
+            "source": "cindy.stark@enron.com",
+            "target": "rod.hayslett@enron.com"
+        },
+        {
+            "source": "daren.farmer@enron.com",
+            "target": "daren.farmer@enron.com"
+        },
+        {
+            "source": "daren.farmer@enron.com",
+            "target": "john.griffith@enron.com"
+        },
+        {
+            "source": "daren.farmer@enron.com",
+            "target": "randall.gay@enron.com"
+        },
+        {
+            "source": "john.griffith@enron.com",
+            "target": "john.griffith@enron.com"
+        },
+        {
+            "source": "rod.hayslett@enron.com",
+            "target": "raymond.bowen@enron.com"
+        },
+        {
+            "source": "rod.hayslett@enron.com",
+            "target": "rod.hayslett@enron.com"
+        },
+        {
+            "source": "rod.hayslett@enron.com",
+            "target": "40enron@enron.com"
+        },
+        {
+            "source": "rob.gay@enron.com",
+            "target": "randall.gay@enron.com"
+        },
+        {
+            "source": "alan.comnes@enron.com",
+            "target": "alan.comnes@enron.com"
+        },
+        {
+            "source": "alan.comnes@enron.com",
+            "target": "joseph.alamo@enron.com"
+        },
+        {
+            "source": "alan.comnes@enron.com",
+            "target": "phillip.allen@enron.com"
+        },
+        {
+            "source": "randall.gay@enron.com",
+            "target": "phillip.allen@enron.com"
+        },
+        {
+            "source": "phillip.allen@enron.com",
+            "target": "greg.piper@enron.com"
+        },
+        {
+            "source": "joseph.alamo@enron.com",
+            "target": "joseph.alamo@enron.com"
+        },
+        {
+            "source": "greg.piper@enron.com",
+            "target": "greg.piper@enron.com"
+        }
+    ]
+}
